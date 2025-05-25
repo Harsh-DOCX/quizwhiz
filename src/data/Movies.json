@@ -1,0 +1,932 @@
+[
+        {
+            "question": "Which Bollywood movie is known as the 'Father of Indian Cinema'?",
+            "options": [
+                "Raja Harishchandra",
+                "Alam Ara",
+                "Shree 420",
+                "Mother India"
+            ],
+            "answer": "Raja Harishchandra"
+        },
+        {
+            "question": "Who directed the iconic film 'Sholay'?",
+            "options": [
+                "Yash Chopra",
+                "Ramesh Sippy",
+                "Raj Kapoor",
+                "Guru Dutt"
+            ],
+            "answer": "Ramesh Sippy"
+        },
+        {
+            "question": "Which actor is famously known as 'King Khan' in Bollywood?",
+            "options": [
+                "Aamir Khan",
+                "Salman Khan",
+                "Shah Rukh Khan",
+                "Saif Ali Khan"
+            ],
+            "answer": "Shah Rukh Khan"
+        },
+        {
+            "question": "In which movie does Shah Rukh Khan play a character named Rahul who says, 'Pyaar dosti hai'?",
+            "options": [
+                "Dilwale Dulhania Le Jayenge",
+                "Kuch Kuch Hota Hai",
+                "Kabhi Khushi Kabhie Gham",
+                "Dil To Pagal Hai"
+            ],
+            "answer": "Kuch Kuch Hota Hai"
+        },
+        {
+            "question": "Which film won the first National Film Award for Best Feature Film in Hindi?",
+            "options": [
+                "Pyaasa",
+                "Do Bigha Zamin",
+                "Mother India",
+                "Mughal-e-Azam"
+            ],
+            "answer": "Mother India"
+        },
+        {
+            "question": "Which Tamil film director is known for movies like 'Nayakan' and 'Roja'?",
+            "options": [
+                "S. Shankar",
+                "Mani Ratnam",
+                "A.R. Murugadoss",
+                "Gautham Menon"
+            ],
+            "answer": "Mani Ratnam"
+        },
+        {
+            "question": "In 'Lagaan', what is the name of the village where the story is set?",
+            "options": [
+                "Champaner",
+                "Chak De",
+                "Kanpur",
+                "Rampur"
+            ],
+            "answer": "Champaner"
+        },
+        {
+            "question": "Which actress played the role of Geet in 'Jab We Met'?",
+            "options": [
+                "Deepika Padukone",
+                "Kareena Kapoor",
+                "Priyanka Chopra",
+                "Vidya Balan"
+            ],
+            "answer": "Kareena Kapoor"
+        },
+        {
+            "question": "Which Bollywood movie features the song 'Yeh Dosti Hum Nahi Todenge'?",
+            "options": [
+                "Sholay",
+                "Yaadon Ki Baaraat",
+                "Dostana",
+                "Andaz Apna Apna"
+            ],
+            "answer": "Sholay"
+        },
+        {
+            "question": "Who is the music director of the film 'Dil Se'?",
+            "options": [
+                "A.R. Rahman",
+                "Anu Malik",
+                "Jatin-Lalit",
+                "R.D. Burman"
+            ],
+            "answer": "A.R. Rahman"
+        },
+        {
+            "question": "Which film is based on the life of freedom fighter Bhagat Singh?",
+            "options": [
+                "Rang De Basanti",
+                "The Legend of Bhagat Singh",
+                "Mangal Pandey",
+                "Gandhi"
+            ],
+            "answer": "The Legend of Bhagat Singh"
+        },
+        {
+            "question": "In '3 Idiots', what is the name of the engineering college where the story takes place?",
+            "options": [
+                "ICE",
+                "IIT Delhi",
+                "NIT Warangal",
+                "BITS Pilani"
+            ],
+            "answer": "ICE"
+        },
+        {
+            "question": "Which actor played the role of Sanjay Singhania in 'Ghajini'?",
+            "options": [
+                "Aamir Khan",
+                "Salman Khan",
+                "Akshay Kumar",
+                "Hrithik Roshan"
+            ],
+            "answer": "Aamir Khan"
+        },
+        {
+            "question": "Which movie features the iconic dialogue, 'Mogambo khush hua'?",
+            "options": [
+                "Mr. India",
+                "Shaan",
+                "Don",
+                "Deewar"
+            ],
+            "answer": "Mr. India"
+        },
+        {
+            "question": "Which South Indian actor is known as 'Thala' among his fans?",
+            "options": [
+                "Vijay",
+                "Ajith Kumar",
+                "Suriya",
+                "Vikram"
+            ],
+            "answer": "Ajith Kumar"
+        },
+        {
+            "question": "Which film is considered the first talkie in Indian cinema?",
+            "options": [
+                "Alam Ara",
+                "Raja Harishchandra",
+                "Barsaat",
+                "Awara"
+            ],
+            "answer": "Alam Ara"
+        },
+        {
+            "question": "In 'Bajrangi Bhaijaan', what is the name of the mute Pakistani girl?",
+            "options": [
+                "Munni",
+                "Geeta",
+                "Radha",
+                "Sita"
+            ],
+            "answer": "Munni"
+        },
+        {
+            "question": "Which director is known for the 'Barfi!' and 'Jagga Jasoos'?",
+            "options": [
+                "Anurag Basu",
+                "Sanjay Leela Bhansali",
+                "Karan Johar",
+                "Imtiaz Ali"
+            ],
+            "answer": "Anurag Basu"
+        },
+        {
+            "question": "Which movie features the song 'Tum Hi Ho' by Arijit Singh?",
+            "options": [
+                "Aashiqui 2",
+                "Yeh Jawaani Hai Deewani",
+                "Ae Dil Hai Mushkil",
+                "Half Girlfriend"
+            ],
+            "answer": "Aashiqui 2"
+        },
+        {
+            "question": "Which Bollywood actor is known as the 'Khiladi' of Bollywood?",
+            "options": [
+                "Akshay Kumar",
+                "Sunny Deol",
+                "Ajay Devgn",
+                "John Abraham"
+            ],
+            "answer": "Akshay Kumar"
+        },
+        {
+            "question": "In 'Chak De! India', what sport is the movie centered around?",
+            "options": [
+                "Cricket",
+                "Hockey",
+                "Football",
+                "Kabaddi"
+            ],
+            "answer": "Hockey"
+        },
+        {
+            "question": "Which film won the Oscar for Best Costume Design in 1983?",
+            "options": [
+                "Gandhi",
+                "Lagaan",
+                "Slumdog Millionaire",
+                "Monsoon Wedding"
+            ],
+            "answer": "Gandhi"
+        },
+        {
+            "question": "Which actress played the role of Basanti in 'Sholay'?",
+            "options": [
+                "Hema Malini",
+                "Jaya Bachchan",
+                "Rekha",
+                "Sridevi"
+            ],
+            "answer": "Hema Malini"
+        },
+        {
+            "question": "Which movie is based on the novel 'Five Point Someone' by Chetan Bhagat?",
+            "options": [
+                "3 Idiots",
+                "Kai Po Che",
+                "2 States",
+                "Half Girlfriend"
+            ],
+            "answer": "3 Idiots"
+        },
+        {
+            "question": "Who directed the epic historical drama 'Mughal-e-Azam'?",
+            "options": [
+                "K. Asif",
+                "Mehboob Khan",
+                "Guru Dutt",
+                "Bimal Roy"
+            ],
+            "answer": "K. Asif"
+        },
+        {
+            "question": "Which Telugu actor is known as 'Megastar'?",
+            "options": [
+                "Mahesh Babu",
+                "Chiranjeevi",
+                "NTR Jr.",
+                "Pawan Kalyan"
+            ],
+            "answer": "Chiranjeevi"
+        },
+        {
+            "question": "In 'Dilwale Dulhania Le Jayenge', what is the name of Shah Rukh Khan’s character?",
+            "options": [
+                "Raj Malhotra",
+                "Rahul Khanna",
+                "Vijay Chauhan",
+                "Aman Mathur"
+            ],
+            "answer": "Raj Malhotra"
+        },
+        {
+            "question": "Which movie features the song 'Chaiyya Chaiyya'?",
+            "options": [
+                "Dil Se",
+                "Taal",
+                "Rangeela",
+                "Bombay"
+            ],
+            "answer": "Dil Se"
+        },
+        {
+            "question": "Which Bollywood film is set during the Kargil War?",
+            "options": [
+                "LOC Kargil",
+                "Border",
+                "Lakshya",
+                "Uri"
+            ],
+            "answer": "Lakshya"
+        },
+        {
+            "question": "Who played the role of Milkha Singh in 'Bhaag Milkha Bhaag'?",
+            "options": [
+                "Farhan Akhtar",
+                "Ranbir Kapoor",
+                "Ranveer Singh",
+                "Ayushmann Khurrana"
+            ],
+            "answer": "Farhan Akhtar"
+        },
+        {
+            "question": "Which film is known for the dialogue, 'Bade bade deshon mein aisi chhoti chhoti baatein hoti rehti hai'?",
+            "options": [
+                "Dilwale Dulhania Le Jayenge",
+                "Kuch Kuch Hota Hai",
+                "Kabhi Khushi Kabhie Gham",
+                "Mohabbatein"
+            ],
+            "answer": "Dilwale Dulhania Le Jayenge"
+        },
+        {
+            "question": "Which actress starred opposite Salman Khan in 'Sultan'?",
+            "options": [
+                "Anushka Sharma",
+                "Katrina Kaif",
+                "Deepika Padukone",
+                "Priyanka Chopra"
+            ],
+            "answer": "Anushka Sharma"
+        },
+        {
+            "question": "Which film director is known for 'Piku' and 'October'?",
+            "options": [
+                "Shoojit Sircar",
+                "Anurag Kashyap",
+                "Dibakar Banerjee",
+                "Vishal Bhardwaj"
+            ],
+            "answer": "Shoojit Sircar"
+        },
+        {
+            "question": "Which movie features the song 'Kal Ho Naa Ho'?",
+            "options": [
+                "Kal Ho Naa Ho",
+                "Kabhi Alvida Naa Kehna",
+                "Kuch Kuch Hota Hai",
+                "My Name Is Khan"
+            ],
+            "answer": "Kal Ho Naa Ho"
+        },
+        {
+            "question": "Which South Indian film won the National Award for Best Feature Film in 2020?",
+            "options": [
+                "Asuran",
+                "Kumbalangi Nights",
+                "Super Deluxe",
+                "Jallikattu"
+            ],
+            "answer": "Asuran"
+        },
+        {
+            "question": "In 'Andaz Apna Apna', what is the name of Aamir Khan’s character?",
+            "options": [
+                "Amar",
+                "Prem",
+                "Rahul",
+                "Vijay"
+            ],
+            "answer": "Amar"
+        },
+        {
+            "question": "Which movie is based on the life of wrestler Mahavir Singh Phogat?",
+            "options": [
+                "Dangal",
+                "Sultan",
+                "Mary Kom",
+                "Bhaag Milkha Bhaag"
+            ],
+            "answer": "Dangal"
+        },
+        {
+            "question": "Which actor is known as 'Mr. Perfectionist' in Bollywood?",
+            "options": [
+                "Aamir Khan",
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Hrithik Roshan"
+            ],
+            "answer": "Aamir Khan"
+        },
+        {
+            "question": "Which film features the song 'Tujh Mein Rab Dikhta Hai'?",
+            "options": [
+                "Rab Ne Bana Di Jodi",
+                "Veer-Zaara",
+                "Jab Tak Hai Jaan",
+                "Dilwale"
+            ],
+            "answer": "Rab Ne Bana Di Jodi"
+        },
+        {
+            "question": "Which Bollywood movie is set in the backdrop of the 2002 Gujarat riots?",
+            "options": [
+                "Parzania",
+                "Firaaq",
+                "Kai Po Che",
+                "Raees"
+            ],
+            "answer": "Firaaq"
+        },
+        {
+            "question": "Who directed the film 'Pather Panchali'?",
+            "options": [
+                "Satyajit Ray",
+                "Ritwik Ghatak",
+                "Mrinal Sen",
+                "Aparna Sen"
+            ],
+            "answer": "Satyajit Ray"
+        },
+        {
+            "question": "Which movie features the iconic dialogue, 'Don ko pakadna mushkil hi nahi, namumkin hai'?",
+            "options": [
+                "Don",
+                "Sholay",
+                "Deewar",
+                "Agneepath"
+            ],
+            "answer": "Don"
+        },
+        {
+            "question": "Which actress played the role of Mary Kom in the biopic 'Mary Kom'?",
+            "options": [
+                "Priyanka Chopra",
+                "Deepika Padukone",
+                "Kangana Ranaut",
+                "Vidya Balan"
+            ],
+            "answer": "Priyanka Chopra"
+        },
+        {
+            "question": "Which film is known for the song 'Dhoom Machale'?",
+            "options": [
+                "Dhoom",
+                "Dhoom 2",
+                "Dhoom 3",
+                "Race"
+            ],
+            "answer": "Dhoom"
+        },
+        {
+            "question": "Which Bollywood actor is nicknamed 'Bhaijaan' by fans?",
+            "options": [
+                "Salman Khan",
+                "Aamir Khan",
+                "Shah Rukh Khan",
+                "Saif Ali Khan"
+            ],
+            "answer": "Salman Khan"
+        },
+        {
+            "question": "Which film won the National Award for Best Supporting Actress for Surekha Sikri in 2018?",
+            "options": [
+                "Badhaai Ho",
+                "Tumbbad",
+                "Andhadhun",
+                "Padman"
+            ],
+            "answer": "Badhaai Ho"
+        },
+        {
+            "question": "In 'PK', what is the name of Aamir Khan’s alien character?",
+            "options": [
+                "PK",
+                "Jaggu",
+                "Bhairon",
+                "Tapasvi"
+            ],
+            "answer": "PK"
+        },
+        {
+            "question": "Which movie is based on the life of mathematician Anand Kumar?",
+            "options": [
+                "Super 30",
+                "Mission Mangal",
+                "Padman",
+                "Manjhi"
+            ],
+            "answer": "Super 30"
+        },
+        {
+            "question": "Which director is known for films like 'Devdas' and 'Bajirao Mastani'?",
+            "options": [
+                "Sanjay Leela Bhansali",
+                "Karan Johar",
+                "Anurag Kashyap",
+                "Rohit Shetty"
+            ],
+            "answer": "Sanjay Leela Bhansali"
+        },
+        {
+            "question": "Which movie features the song 'Gerua'?",
+            "options": [
+                "Dilwale",
+                "Bajirao Mastani",
+                "Yeh Jawaani Hai Deewani",
+                "Chennai Express"
+            ],
+            "answer": "Dilwale"
+        },
+        {
+            "question": "Which South Indian actor is known as 'Superstar'?",
+            "options": [
+                "Rajinikanth",
+                "Kamal Haasan",
+                "Vijay",
+                "Suriya"
+            ],
+            "answer": "Rajinikanth"
+        },
+        {
+            "question": "In 'Swades', what is the name of Shah Rukh Khan’s character?",
+            "options": [
+                "Mohan Bhargav",
+                "Vijay Dinanath Chauhan",
+                "Rahul Mehra",
+                "Arjun Singh"
+            ],
+            "answer": "Mohan Bhargav"
+        },
+        {
+            "question": "Which film is known for the dialogue, 'Picture abhi baaki hai mere dost'?",
+            "options": [
+                "Om Shanti Om",
+                "Main Hoon Na",
+                "Chennai Express",
+                "Happy New Year"
+            ],
+            "answer": "Om Shanti Om"
+        },
+        {
+            "question": "Which actress played the role of Naina in 'Yeh Jawaani Hai Deewani'?",
+            "options": [
+                "Deepika Padukone",
+                "Anushka Sharma",
+                "Katrina Kaif",
+                "Kareena Kapoor"
+            ],
+            "answer": "Deepika Padukone"
+        },
+        {
+            "question": "Which movie is based on the 1993 Bombay bombings?",
+            "options": [
+                "Black Friday",
+                "Mumbai Meri Jaan",
+                "A Wednesday",
+                "Firaaq"
+            ],
+            "answer": "Black Friday"
+        },
+        {
+            "question": "Which film director is known for 'Gangs of Wasseypur'?",
+            "options": [
+                "Anurag Kashyap",
+                "Vishal Bhardwaj",
+                "Dibakar Banerjee",
+                "Tigmanshu Dhulia"
+            ],
+            "answer": "Anurag Kashyap"
+        },
+        {
+            "question": "Which movie features the song 'Kabira'?",
+            "options": [
+                "Yeh Jawaani Hai Deewani",
+                "Bajirao Mastani",
+                "Tamasha",
+                "Ae Dil Hai Mushkil"
+            ],
+            "answer": "Yeh Jawaani Hai Deewani"
+        },
+        {
+            "question": "Which actor played the role of Murad in 'Gully Boy'?",
+            "options": [
+                "Ranveer Singh",
+                "Ranbir Kapoor",
+                "Ayushmann Khurrana",
+                "Rajkummar Rao"
+            ],
+            "answer": "Ranveer Singh"
+        },
+        {
+            "question": "Which film is set in the backdrop of the 2011 Mumbai bombings?",
+            "options": [
+                "Mumbai Meri Jaan",
+                "A Wednesday",
+                "Tumbbad",
+                "Black Friday"
+            ],
+            "answer": "Mumbai Meri Jaan"
+        },
+        {
+            "question": "Which actress is known as the 'Dream Girl' of Bollywood?",
+            "options": [
+                "Hema Malini",
+                "Sridevi",
+                "Madhuri Dixit",
+                "Rekha"
+            ],
+            "answer": "Hema Malini"
+        },
+        {
+            "question": "Which movie features the song 'Senorita'?",
+            "options": [
+                "Zindagi Na Milegi Dobara",
+                "Dil Dhadakne Do",
+                "Yeh Jawaani Hai Deewani",
+                "Bajirao Mastani"
+            ],
+            "answer": "Zindagi Na Milegi Dobara"
+        },
+        {
+            "question": "Which film is based on the life of Arunachalam Muruganantham?",
+            "options": [
+                "Padman",
+                "Toilet: Ek Prem Katha",
+                "Manjhi",
+                "Super 30"
+            ],
+            "answer": "Padman"
+        },
+        {
+            "question": "Which actor played the role of Kabir Khan in 'Chak De! India'?",
+            "options": [
+                "Shah Rukh Khan",
+                "Aamir Khan",
+                "Salman Khan",
+                "Hrithik Roshan"
+            ],
+            "answer": "Shah Rukh Khan"
+        },
+        {
+            "question": "Which movie is known for the dialogue, 'Hum tum ek kamre mein band ho'?",
+            "options": [
+                "Bobby",
+                "Silsila",
+                "Kabhi Kabhie",
+                "Lamhe"
+            ],
+            "answer": "Bobby"
+        },
+        {
+            "question": "Which South Indian film is known for its song 'Why This Kolaveri Di'?",
+            "options": [
+                "3",
+                "Ayan",
+                "Sivaji",
+                "Endhiran"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which film director is known for 'Maqbool' and 'Haider'?",
+            "options": [
+                "Vishal Bhardwaj",
+                "Anurag Kashyap",
+                "Sanjay Leela Bhansali",
+                "Shoojit Sircar"
+            ],
+            "answer": "Vishal Bhardwaj"
+        },
+        {
+            "question": "Which movie features the song 'Tum Se Hi'?",
+            "options": [
+                "Jab We Met",
+                "Love Aaj Kal",
+                "Tamasha",
+                "Rockstar"
+            ],
+            "answer": "Jab We Met"
+        },
+        {
+            "question": "Which actor is known as 'Greek God' of Bollywood?",
+            "options": [
+                "Hrithik Roshan",
+                "Ranbir Kapoor",
+                "Ranveer Singh",
+                "Varun Dhawan"
+            ],
+            "answer": "Hrithik Roshan"
+        },
+        {
+            "question": "Which film is based on the life of Neerja Bhanot?",
+            "options": [
+                "Neerja",
+                "Sarbjit",
+                "Mary Kom",
+                "Manikarnika"
+            ],
+            "answer": "Neerja"
+        },
+        {
+            "question": "Which movie features the song 'Mitwa'?",
+            "options": [
+                "Kabhi Alvida Naa Kehna",
+                "Kal Ho Naa Ho",
+                "Veer-Zaara",
+                "Main Hoon Na"
+            ],
+            "answer": "Kabhi Alvida Naa Kehna"
+        },
+        {
+            "question": "Which actress played the role of Rani in 'Queen'?",
+            "options": [
+                "Kangana Ranaut",
+                "Vidya Balan",
+                "Deepika Padukone",
+                "Priyanka Chopra"
+            ],
+            "answer": "Kangana Ranaut"
+        },
+        {
+            "question": "Which film is known for the dialogue, 'Tareef karun kya uski jisne tujhe banaya'?",
+            "options": [
+                "Fanaa",
+                "Veer-Zaara",
+                "Jab We Met",
+                "Dil To Pagal Hai"
+            ],
+            "answer": "Fanaa"
+        },
+        {
+            "question": "Which movie is based on the 1984 anti-Sikh riots?",
+            "options": [
+                "Punjab 1984",
+                "Maachis",
+                "Firaaq",
+                "Black Friday"
+            ],
+            "answer": "Maachis"
+        },
+        {
+            "question": "Which actor played the role of Bajirao in 'Bajirao Mastani'?",
+            "options": [
+                "Ranveer Singh",
+                "Ranbir Kapoor",
+                "Ajay Devgn",
+                "Shahid Kapoor"
+            ],
+            "answer": "Ranveer Singh"
+        },
+        {
+            "question": "Which film features the song 'Badtameez Dil'?",
+            "options": [
+                "Yeh Jawaani Hai Deewani",
+                "Ae Dil Hai Mushkil",
+                "Tamasha",
+                "Bajirao Mastani"
+            ],
+            "answer": "Yeh Jawaani Hai Deewani"
+        },
+        {
+            "question": "Which director is known for the film 'Masaan'?",
+            "options": [
+                "Neeraj Ghaywan",
+                "Anurag Kashyap",
+                "Vishal Bhardwaj",
+                "Shoojit Sircar"
+            ],
+            "answer": "Neeraj Ghaywan"
+        },
+        {
+            "question": "Which movie is based on the life of Rani Laxmibai?",
+            "options": [
+                "Manikarnika",
+                "Neerja",
+                "Mary Kom",
+                "Sarbjit"
+            ],
+            "answer": "Manikarnika"
+        },
+        {
+            "question": "Which film features the song 'Agar Tum Saath Ho'?",
+            "options": [
+                "Tamasha",
+                "Rockstar",
+                "Yeh Jawaani Hai Deewani",
+                "Ae Dil Hai Mushkil"
+            ],
+            "answer": "Tamasha"
+        },
+        {
+            "question": "Which actor played the role of Alauddin Khilji in 'Padmaavat'?",
+            "options": [
+                "Ranveer Singh",
+                "Shahid Kapoor",
+                "Ranbir Kapoor",
+                "Ajay Devgn"
+            ],
+            "answer": "Ranveer Singh"
+        },
+        {
+            "question": "Which movie is known for the dialogue, 'Main apni favorite hoon'?",
+            "options": [
+                "Jab We Met",
+                "Queen",
+                "Piku",
+                "Tumhari Sulu"
+            ],
+            "answer": "Jab We Met"
+        },
+        {
+            "question": "Which South Indian film is known for its visual effects and epic scale?",
+            "options": [
+                "Baahubali",
+                "Robot",
+                "Sivaji",
+                "2.0"
+            ],
+            "answer": "Baahubali"
+        },
+        {
+            "question": "Which actress played the role of Piku in 'Piku'?",
+            "options": [
+                "Deepika Padukone",
+                "Vidya Balan",
+                "Kangana Ranaut",
+                "Anushka Sharma"
+            ],
+            "answer": "Deepika Padukone"
+        },
+        {
+            "question": "Which film features the song 'London Thumakda'?",
+            "options": [
+                "Queen",
+                "Jab We Met",
+                "Piku",
+                "Tumhari Sulu"
+            ],
+            "answer": "Queen"
+        },
+        {
+            "question": "Which movie is based on the life of Sanjay Dutt?",
+            "options": [
+                "Sanju",
+                "Munnabhai MBBS",
+                "Vaastav",
+                "Khalnayak"
+            ],
+            "answer": "Sanju"
+        },
+        {
+            "question": "Which actor is known as the 'Badshah of Bollywood'?",
+            "options": [
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Aamir Khan",
+                "Ajay Devgn"
+            ],
+            "answer": "Shah Rukh Khan"
+        },
+        {
+            "question": "Which film features the song 'Pehli Baar Mohabbat'?",
+            "options": [
+                "Kismat Konnection",
+                "Love Aaj Kal",
+                "Jab We Met",
+                "Rockstar"
+            ],
+            "answer": "Kismat Konnection"
+        },
+        {
+            "question": "Which director is known for 'Rang De Basanti'?",
+            "options": [
+                "Rakeysh Omprakash Mehra",
+                "Anurag Kashyap",
+                "Karan Johar",
+                "Sanjay Leela Bhansali"
+            ],
+            "answer": "Rakeysh Omprakash Mehra"
+        },
+        {
+            "question": "Which movie is known for the dialogue, 'Jadoo ki jhappi'?",
+            "options": [
+                "Munnabhai MBBS",
+                "Lage Raho Munnabhai",
+                "3 Idiots",
+                "PK"
+            ],
+            "answer": "Munnabhai MBBS"
+        },
+        {
+            "question": "Which actress played the role of Sulu in 'Tumhari Sulu'?",
+            "options": [
+                "Vidya Balan",
+                "Kangana Ranaut",
+                "Deepika Padukone",
+                "Anushka Sharma"
+            ],
+            "answer": "Vidya Balan"
+        },
+        {
+            "question": "Which film features the song 'Sawaar Loon'?",
+            "options": [
+                "Lootera",
+                "Raanjhanaa",
+                "Rockstar",
+                "Tamasha"
+            ],
+            "answer": "Lootera"
+        },
+        {
+            "question": "Which movie is based on the life of Hawa Singh?",
+            "options": [
+                "Soorma",
+                "Bhaag Milkha Bhaag",
+                "Dangal",
+                "Mary Kom"
+            ],
+            "answer": "Soorma"
+        },
+        {
+            "question": "Which actor played the role of Devdas in Sanjay Leela Bhansali’s 'Devdas'?",
+            "options": [
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Aamir Khan",
+                "Hrithik Roshan"
+            ],
+            "answer": "Shah Rukh Khan"
+        },
+        {
+            "question": "Which film is known for the song 'Chand Sifarish'?",
+            "options": [
+                "Fanaa",
+                "Veer-Zaara",
+                "Jab We Met",
+                "Dil To Pagal Hai"
+            ],
+            "answer": "Fanaa"
+        }
+    ]

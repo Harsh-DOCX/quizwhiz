@@ -1,0 +1,962 @@
+[
+        {
+            "question": "Which programming language was created first?",
+            "options": [
+                "Python",
+                "C",
+                "Java",
+                "JavaScript"
+            ],
+            "answer": "C"
+        },
+        {
+            "question": "What does the acronym 'DRY' stand for in programming?",
+            "options": [
+                "Don't Repeat Yourself",
+                "Do Repeat Yourself",
+                "Don't Run Yet",
+                "Debug Regularly Yearly"
+            ],
+            "answer": "Don't Repeat Yourself"
+        },
+        {
+            "question": "Which Indian company developed the programming language 'Ezhil' for Tamil speakers?",
+            "options": [
+                "Infosys",
+                "TCS",
+                "IIT Madras",
+                "Wipro"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "In Python, which keyword is used to define a function?",
+            "options": [
+                "def",
+                "function",
+                "fun",
+                "define"
+            ],
+            "answer": "def"
+        },
+        {
+            "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Array",
+                "Linked List"
+            ],
+            "answer": "Stack"
+        },
+        {
+            "question": "Which open-source project, started by an Indian developer, is a popular version control system?",
+            "options": [
+                "Git",
+                "Mercurial",
+                "Subversion",
+                "Bazaar"
+            ],
+            "answer": "Git"
+        },
+        {
+            "question": "In Java, which keyword is used to inherit a class?",
+            "options": [
+                "extends",
+                "implements",
+                "super",
+                "this"
+            ],
+            "answer": "extends"
+        },
+        {
+            "question": "Which Indian tech company created the 'Aadhaar Bridge' API for authentication?",
+            "options": [
+                "UIDAI",
+                "TCS",
+                "Infosys",
+                "Zoho"
+            ],
+            "answer": "UIDAI"
+        },
+        {
+            "question": "What is the output of `print(2 ** 3)` in Python?",
+            "options": [
+                "6",
+                "8",
+                "9",
+                "23"
+            ],
+            "answer": "8"
+        },
+        {
+            "question": "Which framework is used for building Android apps and was developed by Google?",
+            "options": [
+                "Flutter",
+                "React Native",
+                "Ionic",
+                "Xamarin"
+            ],
+            "answer": "Flutter"
+        },
+        {
+            "question": "Which Indian institute offers the 'NPTEL' online course for programming?",
+            "options": [
+                "IIT Bombay",
+                "IISc Bangalore",
+                "IIT Madras",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "In C++, what is used to dynamically allocate memory?",
+            "options": [
+                "new",
+                "malloc",
+                "alloc",
+                "create"
+            ],
+            "answer": "new"
+        },
+        {
+            "question": "Which database is commonly used with the MERN stack?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "Which Indian startup developed the 'Postman' API testing tool?",
+            "options": [
+                "Postman Inc.",
+                "Zoho",
+                "Freshworks",
+                "InMobi"
+            ],
+            "answer": "Postman Inc."
+        },
+        {
+            "question": "In JavaScript, which method is used to add an element to the end of an array?",
+            "options": [
+                "push()",
+                "pop()",
+                "shift()",
+                "unshift()"
+            ],
+            "answer": "push()"
+        },
+        {
+            "question": "What is the time complexity of a binary search algorithm?",
+            "options": [
+                "O(n)",
+                "O(log n)",
+                "O(n^2)",
+                "O(1)"
+            ],
+            "answer": "O(log n)"
+        },
+        {
+            "question": "Which programming language is used in the Indian Railways’ IRCTC website backend?",
+            "options": [
+                "Java",
+                "Python",
+                "PHP",
+                "Ruby"
+            ],
+            "answer": "Java"
+        },
+        {
+            "question": "In Python, which module is used for regular expressions?",
+            "options": [
+                "re",
+                "regex",
+                "regexp",
+                "pattern"
+            ],
+            "answer": "re"
+        },
+        {
+            "question": "Which version control system is widely used in Indian IT companies?",
+            "options": [
+                "Git",
+                "SVN",
+                "Mercurial",
+                "Perforce"
+            ],
+            "answer": "Git"
+        },
+        {
+            "question": "What does HTML stand for?",
+            "options": [
+                "HyperText Markup Language",
+                "HighText Machine Language",
+                "HyperTool Multi Language",
+                "HomeText Markup Language"
+            ],
+            "answer": "HyperText Markup Language"
+        },
+        {
+            "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+            "options": [
+                "Bengaluru",
+                "Hyderabad",
+                "Pune",
+                "Chennai"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "In C, what is the purpose of the `printf` function?",
+            "options": [
+                "Print to console",
+                "Read input",
+                "Allocate memory",
+                "Define a function"
+            ],
+            "answer": "Print to console"
+        },
+        {
+            "question": "Which framework is used for web development in Python?",
+            "options": [
+                "Django",
+                "Spring",
+                "Laravel",
+                "Express"
+            ],
+            "answer": "Django"
+        },
+        {
+            "question": "Which Indian tech company uses Zoho Creator for low-code app development?",
+            "options": [
+                "Zoho",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Zoho"
+        },
+        {
+            "question": "In Java, what is the default value of an uninitialized `int` variable?",
+            "options": [
+                "0",
+                "null",
+                "-1",
+                "undefined"
+            ],
+            "answer": "0"
+        },
+        {
+            "question": "Which algorithm is used for finding the shortest path in a graph?",
+            "options": [
+                "Dijkstra’s Algorithm",
+                "Bubble Sort",
+                "Binary Search",
+                "Quick Sort"
+            ],
+            "answer": "Dijkstra’s Algorithm"
+        },
+        {
+            "question": "Which Indian institute developed the ‘Shakti’ microprocessor?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "In JavaScript, what is the purpose of the `async` keyword?",
+            "options": [
+                "To define asynchronous functions",
+                "To synchronize threads",
+                "To declare variables",
+                "To import modules"
+            ],
+            "answer": "To define asynchronous functions"
+        },
+        {
+            "question": "Which data structure is used in a priority queue?",
+            "options": [
+                "Heap",
+                "Array",
+                "Linked List",
+                "Stack"
+            ],
+            "answer": "Heap"
+        },
+        {
+            "question": "Which Indian platform is popular for competitive programming?",
+            "options": [
+                "CodeChef",
+                "HackerRank",
+                "LeetCode",
+                "Codeforces"
+            ],
+            "answer": "CodeChef"
+        },
+        {
+            "question": "In Python, what is used to handle exceptions?",
+            "options": [
+                "try-except",
+                "if-else",
+                "for-loop",
+                "while-loop"
+            ],
+            "answer": "try-except"
+        },
+        {
+            "question": "Which language is used for scripting in Unity game development?",
+            "options": [
+                "C#",
+                "C++",
+                "Python",
+                "Java"
+            ],
+            "answer": "C#"
+        },
+        {
+            "question": "Which Indian IT company is known for its ‘Finacle’ banking software?",
+            "options": [
+                "Infosys",
+                "TCS",
+                "Wipro",
+                "HCL"
+            ],
+            "answer": "Infosys"
+        },
+        {
+            "question": "In SQL, which command is used to retrieve data from a database?",
+            "options": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "DELETE"
+            ],
+            "answer": "SELECT"
+        },
+        {
+            "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+            "options": [
+                "Bubble Sort",
+                "Merge Sort",
+                "Quick Sort",
+                "Heap Sort"
+            ],
+            "answer": "Bubble Sort"
+        },
+        {
+            "question": "Which Indian startup developed the ‘Koo’ social media platform’s backend?",
+            "options": [
+                "Bombinate Technologies",
+                "Zoho",
+                "Freshworks",
+                "InMobi"
+            ],
+            "answer": "Bombinate Technologies"
+        },
+        {
+            "question": "In CSS, which property is used to change the text color?",
+            "options": [
+                "color",
+                "font-color",
+                "text-color",
+                "style-color"
+            ],
+            "answer": "color"
+        },
+        {
+            "question": "Which programming paradigm does Python primarily support?",
+            "options": [
+                "Object-Oriented",
+                "Functional",
+                "Procedural",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "Which Indian organization developed the ‘PARAM’ supercomputer series?",
+            "options": [
+                "C-DAC",
+                "DRDO",
+                "ISRO",
+                "BARC"
+            ],
+            "answer": "C-DAC"
+        },
+        {
+            "question": "In Java, which access modifier allows access only within the same class?",
+            "options": [
+                "private",
+                "public",
+                "protected",
+                "default"
+            ],
+            "answer": "private"
+        },
+        {
+            "question": "Which data structure is used for implementing recursion?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Tree",
+                "Graph"
+            ],
+            "answer": "Stack"
+        },
+        {
+            "question": "Which Indian company uses ‘Tally’ for accounting software development?",
+            "options": [
+                "Tally Solutions",
+                "Zoho",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Tally Solutions"
+        },
+        {
+            "question": "In Python, which method is used to add an element to a list?",
+            "options": [
+                "append()",
+                "add()",
+                "insert()",
+                "push()"
+            ],
+            "answer": "append()"
+        },
+        {
+            "question": "Which algorithm is used for lossless data compression?",
+            "options": [
+                "Huffman Coding",
+                "Dijkstra’s Algorithm",
+                "Kruskal’s Algorithm",
+                "Prim’s Algorithm"
+            ],
+            "answer": "Huffman Coding"
+        },
+        {
+            "question": "Which Indian institute hosts the ‘Smart India Hackathon’?",
+            "options": [
+                "AICTE",
+                "IIT Delhi",
+                "IIT Bombay",
+                "NIT Trichy"
+            ],
+            "answer": "AICTE"
+        },
+        {
+            "question": "In JavaScript, which keyword is used to declare a variable with block scope?",
+            "options": [
+                "let",
+                "var",
+                "const",
+                "function"
+            ],
+            "answer": "let"
+        },
+        {
+            "question": "Which database model is used in MySQL?",
+            "options": [
+                "Relational",
+                "NoSQL",
+                "Graph",
+                "Hierarchical"
+            ],
+            "answer": "Relational"
+        },
+        {
+            "question": "Which Indian city hosts the annual ‘PyCon India’ conference?",
+            "options": [
+                "Varies (e.g., Hyderabad, Chennai)",
+                "Bengaluru",
+                "Mumbai",
+                "Delhi"
+            ],
+            "answer": "Varies (e.g., Hyderabad, Chennai)"
+        },
+        {
+            "question": "In C++, what is the purpose of the `virtual` keyword?",
+            "options": [
+                "Enable polymorphism",
+                "Declare variables",
+                "Allocate memory",
+                "Define constants"
+            ],
+            "answer": "Enable polymorphism"
+        },
+        {
+            "question": "Which Python library is used for data analysis?",
+            "options": [
+                "Pandas",
+                "NumPy",
+                "Matplotlib",
+                "TensorFlow"
+            ],
+            "answer": "Pandas"
+        },
+        {
+            "question": "Which Indian company developed the ‘Hike’ messaging app backend?",
+            "options": [
+                "Hike Private Limited",
+                "Zoho",
+                "InMobi",
+                "Freshworks"
+            ],
+            "answer": "Hike Private Limited"
+        },
+        {
+            "question": "In Java, which interface is used for sorting objects?",
+            "options": [
+                "Comparable",
+                "Comparator",
+                "Iterable",
+                "Serializable"
+            ],
+            "answer": "Comparable"
+        },
+        {
+            "question": "Which searching algorithm is best for an unsorted array?",
+            "options": [
+                "Linear Search",
+                "Binary Search",
+                "Jump Search",
+                "Exponential Search"
+            ],
+            "answer": "Linear Search"
+        },
+        {
+            "question": "Which Indian institute developed the ‘Anusandhan’ research platform?",
+            "options": [
+                "IISc Bangalore",
+                "IIT Kanpur",
+                "IIT Madras",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Kanpur"
+        },
+        {
+            "question": "In Python, what is the output of `len('India')`?",
+            "options": [
+                "5",
+                "6",
+                "4",
+                "7"
+            ],
+            "answer": "5"
+        },
+        {
+            "question": "Which framework is used for building REST APIs in Node.js?",
+            "options": [
+                "Express",
+                "Django",
+                "Flask",
+                "Spring"
+            ],
+            "answer": "Express"
+        },
+        {
+            "question": "Which Indian company is known for its ‘Freshdesk’ customer support software?",
+            "options": [
+                "Freshworks",
+                "Zoho",
+                "Infosys",
+                "TCS"
+            ],
+            "answer": "Freshworks"
+        },
+        {
+            "question": "In SQL, which clause is used to filter grouped results?",
+            "options": [
+                "HAVING",
+                "WHERE",
+                "GROUP BY",
+                "ORDER BY"
+            ],
+            "answer": "HAVING"
+        },
+        {
+            "question": "Which algorithm is used for finding the minimum spanning tree?",
+            "options": [
+                "Kruskal’s Algorithm",
+                "Dijkstra’s Algorithm",
+                "Bellman-Ford",
+                "Floyd-Warshall"
+            ],
+            "answer": "Kruskal’s Algorithm"
+        },
+        {
+            "question": "Which Indian platform is known for online coding courses?",
+            "options": [
+                "GeeksforGeeks",
+                "HackerRank",
+                "LeetCode",
+                "Codeforces"
+            ],
+            "answer": "GeeksforGeeks"
+        },
+        {
+            "question": "In JavaScript, what is the purpose of the `map()` method?",
+            "options": [
+                "Transform array elements",
+                "Remove elements",
+                "Sort array",
+                "Filter elements"
+            ],
+            "answer": "Transform array elements"
+        },
+        {
+            "question": "Which Python library is used for machine learning?",
+            "options": [
+                "TensorFlow",
+                "NumPy",
+                "Pandas",
+                "Matplotlib"
+            ],
+            "answer": "TensorFlow"
+        },
+        {
+            "question": "Which Indian startup developed the ‘Razorpay’ payment gateway?",
+            "options": [
+                "Razorpay",
+                "Paytm",
+                "PhonePe",
+                "Freecharge"
+            ],
+            "answer": "Razorpay"
+        },
+        {
+            "question": "In C, what is the size of an `int` on a 32-bit system?",
+            "options": [
+                "4 bytes",
+                "2 bytes",
+                "8 bytes",
+                "1 byte"
+            ],
+            "answer": "4 bytes"
+        },
+        {
+            "question": "Which data structure is used for breadth-first search in a graph?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Heap",
+                "Array"
+            ],
+            "answer": "Queue"
+        },
+        {
+            "question": "Which Indian institute developed the ‘Eklavya’ e-learning platform?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "question": "In Python, which keyword is used to exit a loop?",
+            "options": [
+                "break",
+                "continue",
+                "pass",
+                "return"
+            ],
+            "answer": "break"
+        },
+        {
+            "question": "Which JavaScript framework is used for building user interfaces?",
+            "options": [
+                "React",
+                "Django",
+                "Flask",
+                "Spring"
+            ],
+            "answer": "React"
+        },
+        {
+            "question": "Which Indian company developed the ‘Ola’ ride-sharing app backend?",
+            "options": [
+                "ANI Technologies",
+                "Uber India",
+                "Zoho",
+                "InMobi"
+            ],
+            "answer": "ANI Technologies"
+        },
+        {
+            "question": "In Java, what is the purpose of the `final` keyword?",
+            "options": [
+                "Prevent modification",
+                "Allow inheritance",
+                "Enable polymorphism",
+                "Declare variables"
+            ],
+            "answer": "Prevent modification"
+        },
+        {
+            "question": "Which algorithm is used for pattern matching in strings?",
+            "options": [
+                "KMP Algorithm",
+                "Dijkstra’s Algorithm",
+                "Prim’s Algorithm",
+                "Kruskal’s Algorithm"
+            ],
+            "answer": "KMP Algorithm"
+        },
+        {
+            "question": "Which Indian platform is used for open-source contributions?",
+            "options": [
+                "GitHub",
+                "GitLab",
+                "Bitbucket",
+                "SourceForge"
+            ],
+            "answer": "GitHub"
+        },
+        {
+            "question": "In Python, which function is used to read user input?",
+            "options": [
+                "input()",
+                "read()",
+                "get()",
+                "scan()"
+            ],
+            "answer": "input()"
+        },
+        {
+            "question": "Which database is used in the Indian government’s ‘DigiLocker’ platform?",
+            "options": [
+                "MongoDB",
+                "MySQL",
+                "PostgreSQL",
+                "Oracle"
+            ],
+            "answer": "MongoDB"
+        },
+        {
+            "question": "Which Indian city hosts the ‘IndiaHacks’ coding competition?",
+            "options": [
+                "Hyderabad",
+                "Bengaluru",
+                "Mumbai",
+                "Delhi"
+            ],
+            "answer": "Hyderabad"
+        },
+        {
+            "question": "In C++, what is the purpose of the `const` keyword?",
+            "options": [
+                "Prevent modification",
+                "Allow dynamic allocation",
+                "Enable inheritance",
+                "Declare functions"
+            ],
+            "answer": "Prevent modification"
+        },
+        {
+            "question": "Which Python library is used for plotting graphs?",
+            "options": [
+                "Matplotlib",
+                "Pandas",
+                "NumPy",
+                "TensorFlow"
+            ],
+            "answer": "Matplotlib"
+        },
+        {
+            "question": "Which Indian company developed the ‘Paytm’ payment platform?",
+            "options": [
+                "One97 Communications",
+                "Razorpay",
+                "PhonePe",
+                "Freecharge"
+            ],
+            "answer": "One97 Communications"
+        },
+        {
+            "question": "In JavaScript, what is the purpose of the `filter()` method?",
+            "options": [
+                "Select elements based on condition",
+                "Transform elements",
+                "Sort array",
+                "Remove duplicates"
+            ],
+            "answer": "Select elements based on condition"
+        },
+        {
+            "question": "Which sorting algorithm is used in Python’s `sorted()` function?",
+            "options": [
+                "Timsort",
+                "Quick Sort",
+                "Merge Sort",
+                "Bubble Sort"
+            ],
+            "answer": "Timsort"
+        },
+        {
+            "question": "Which Indian institute developed the ‘Swayam’ e-learning platform?",
+            "options": [
+                "AICTE",
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore"
+            ],
+            "answer": "AICTE"
+        },
+        {
+            "question": "In Java, which collection is used to store key-value pairs?",
+            "options": [
+                "HashMap",
+                "ArrayList",
+                "LinkedList",
+                "Stack"
+            ],
+            "answer": "HashMap"
+        },
+        {
+            "question": "Which algorithm is used for finding strongly connected components in a graph?",
+            "options": [
+                "Kosaraju’s Algorithm",
+                "Dijkstra’s Algorithm",
+                "Prim’s Algorithm",
+                "Kruskal’s Algorithm"
+            ],
+            "answer": "Kosaraju’s Algorithm"
+        },
+        {
+            "question": "Which Indian startup developed the ‘Swiggy’ food delivery platform?",
+            "options": [
+                "Bundl Technologies",
+                "Zomato",
+                "Foodpanda",
+                "Uber Eats"
+            ],
+            "answer": "Bundl Technologies"
+        },
+        {
+            "question": "In Python, what is the purpose of the `lambda` keyword?",
+            "options": [
+                "Create anonymous functions",
+                "Declare variables",
+                "Define classes",
+                "Import modules"
+            ],
+            "answer": "Create anonymous functions"
+        },
+        {
+            "question": "Which NoSQL database is used for big data applications?",
+            "options": [
+                "Cassandra",
+                "MySQL",
+                "PostgreSQL",
+                "SQLite"
+            ],
+            "answer": "Cassandra"
+        },
+        {
+            "question": "Which Indian institute hosts the ‘CodeStreet’ coding event?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "question": "In C, what is the purpose of the `malloc` function?",
+            "options": [
+                "Dynamic memory allocation",
+                "Print to console",
+                "Read input",
+                "Define functions"
+            ],
+            "answer": "Dynamic memory allocation"
+        },
+        {
+            "question": "Which framework is used for building cross-platform mobile apps?",
+            "options": [
+                "React Native",
+                "Django",
+                "Flask",
+                "Spring"
+            ],
+            "answer": "React Native"
+        },
+        {
+            "question": "Which Indian company developed the ‘BigBasket’ e-commerce platform?",
+            "options": [
+                "Innovative Retail Concepts",
+                "Zomato",
+                "Swiggy",
+                "Flipkart"
+            ],
+            "answer": "Innovative Retail Concepts"
+        },
+        {
+            "question": "In JavaScript, what is the purpose of the `Promise` object?",
+            "options": [
+                "Handle asynchronous operations",
+                "Declare variables",
+                "Define functions",
+                "Create classes"
+            ],
+            "answer": "Handle asynchronous operations"
+        },
+        {
+            "question": "Which algorithm is used for topological sorting of a directed acyclic graph?",
+            "options": [
+                "Kahn’s Algorithm",
+                "Dijkstra’s Algorithm",
+                "Prim’s Algorithm",
+                "Kruskal’s Algorithm"
+            ],
+            "answer": "Kahn’s Algorithm"
+        },
+        {
+            "question": "Which Indian platform is known for tech tutorials and blogs?",
+            "options": [
+                "Javatpoint",
+                "HackerRank",
+                "LeetCode",
+                "Codeforces"
+            ],
+            "answer": "Javatpoint"
+        },
+        {
+            "question": "In Python, which module is used for file handling?",
+            "options": [
+                "os",
+                "sys",
+                "file",
+                "io"
+            ],
+            "answer": "io"
+        },
+        {
+            "question": "Which Indian company developed the ‘Myntra’ e-commerce platform?",
+            "options": [
+                "Myntra Designs",
+                "Flipkart",
+                "Amazon India",
+                "Snapdeal"
+            ],
+            "answer": "Myntra Designs"
+        },
+        {
+            "question": "In SQL, which command is used to add a new column to a table?",
+            "options": [
+                "ALTER TABLE",
+                "CREATE TABLE",
+                "DROP TABLE",
+                "UPDATE TABLE"
+            ],
+            "answer": "ALTER TABLE"
+        }
+    ]

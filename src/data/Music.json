@@ -1,0 +1,932 @@
+[
+        {
+            "question": "Which music composer is known for the song 'Chaiyya Chaiyya' from the movie 'Dil Se'?",
+            "options": [
+                "A.R. Rahman",
+                "Anu Malik",
+                "R.D. Burman",
+                "Jatin-Lalit"
+            ],
+            "answer": "A.R. Rahman"
+        },
+        {
+            "question": "Who sang the iconic song 'Yeh Dosti Hum Nahi Todenge' from 'Sholay'?",
+            "options": [
+                "Kishore Kumar and Manna Dey",
+                "Mohammed Rafi and Mukesh",
+                "Lata Mangeshkar and Asha Bhosle",
+                "Udit Narayan and Sonu Nigam"
+            ],
+            "answer": "Kishore Kumar and Manna Dey"
+        },
+        {
+            "question": "Which classical music form is Pandit Ravi Shankar associated with?",
+            "options": [
+                "Hindustani Classical",
+                "Carnatic Classical",
+                "Dhrupad",
+                "Thumri"
+            ],
+            "answer": "Hindustani Classical"
+        },
+        {
+            "question": "Which Bollywood song features the line 'Pyaar dosti hai' from 'Kuch Kuch Hota Hai'?",
+            "options": [
+                "Kuch Kuch Hota Hai",
+                "Ladki Badi Anjaani Hai",
+                "Tujhe Dekha To",
+                "Koi Mil Gaya"
+            ],
+            "answer": "Kuch Kuch Hota Hai"
+        },
+        {
+            "question": "Who is the singer of the song 'Tum Hi Ho' from 'Aashiqui 2'?",
+            "options": [
+                "Arijit Singh",
+                "Atif Aslam",
+                "Sonu Nigam",
+                "Shaan"
+            ],
+            "answer": "Arijit Singh"
+        },
+        {
+            "question": "Which folk music form is popular in Punjab and associated with Bhangra?",
+            "options": [
+                "Bihu",
+                "Lavani",
+                "Bhangra",
+                "Garba"
+            ],
+            "answer": "Bhangra"
+        },
+        {
+            "question": "Which composer duo created the music for 'Dilwale Dulhania Le Jayenge'?",
+            "options": [
+                "Jatin-Lalit",
+                "Nadeem-Shravan",
+                "Anu Malik",
+                "Vishal-Shekhar"
+            ],
+            "answer": "Jatin-Lalit"
+        },
+        {
+            "question": "Which singer is known as the 'Nightingale of India'?",
+            "options": [
+                "Lata Mangeshkar",
+                "Asha Bhosle",
+                "Shreya Ghoshal",
+                "Alka Yagnik"
+            ],
+            "answer": "Lata Mangeshkar"
+        },
+        {
+            "question": "Which song from 'Lagaan' was nominated for an Oscar?",
+            "options": [
+                "Chale Chalo",
+                "Mitwa",
+                "Ghanan Ghanan",
+                "Radha Kaise Na Jale"
+            ],
+            "answer": "Chale Chalo"
+        },
+        {
+            "question": "Who composed the music for the film 'Mughal-e-Azam'?",
+            "options": [
+                "Naushad",
+                "S.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "Naushad"
+        },
+        {
+            "question": "Which Tamil song became a viral hit with the line 'Why This Kolaveri Di'?",
+            "options": [
+                "3",
+                "Sivaji",
+                "Endhiran",
+                "Ayan"
+            ],
+            "answer": "3"
+        },
+        {
+            "question": "Which singer performed 'Kal Ho Naa Ho' from the movie of the same name?",
+            "options": [
+                "Sonu Nigam",
+                "Udit Narayan",
+                "Kumar Sanu",
+                "Arijit Singh"
+            ],
+            "answer": "Sonu Nigam"
+        },
+        {
+            "question": "Which Carnatic music vocalist is known as 'MS Subbulakshmi'?",
+            "options": [
+                "M. Balamuralikrishna",
+                "MS Subbulakshmi",
+                "Sudha Ragunathan",
+                "Aruna Sairam"
+            ],
+            "answer": "MS Subbulakshmi"
+        },
+        {
+            "question": "Which song from 'Yeh Jawaani Hai Deewani' is sung by Arijit Singh?",
+            "options": [
+                "Kabira",
+                "Badtameez Dil",
+                "Balam Pichkari",
+                "Dilliwaali Girlfriend"
+            ],
+            "answer": "Kabira"
+        },
+        {
+            "question": "Which music director is known for the film 'Pakeezah'?",
+            "options": [
+                "Ghulam Mohammed",
+                "R.D. Burman",
+                "Madan Mohan",
+                "Naushad"
+            ],
+            "answer": "Ghulam Mohammed"
+        },
+        {
+            "question": "Which folk music form is associated with Gujarat and performed during Navratri?",
+            "options": [
+                "Garba",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Garba"
+        },
+        {
+            "question": "Who sang 'Tujh Mein Rab Dikhta Hai' from 'Rab Ne Bana Di Jodi'?",
+            "options": [
+                "Roop Kumar Rathod",
+                "Sonu Nigam",
+                "Shreya Ghoshal",
+                "Sukhwinder Singh"
+            ],
+            "answer": "Roop Kumar Rathod"
+        },
+        {
+            "question": "Which Hindustani classical vocalist is known for the Kirana Gharana?",
+            "options": [
+                "Bhimsen Joshi",
+                "Pandit Jasraj",
+                "Kumar Gandharva",
+                "Ustad Amir Khan"
+            ],
+            "answer": "Bhimsen Joshi"
+        },
+        {
+            "question": "Which song from 'Jab We Met' is sung by Mohit Chauhan?",
+            "options": [
+                "Tum Se Hi",
+                "Mauja Hi Mauja",
+                "Yeh Ishq Hai",
+                "Aaoge Jab Tum"
+            ],
+            "answer": "Tum Se Hi"
+        },
+        {
+            "question": "Which music composer is known for the film 'Devdas' (2002)?",
+            "options": [
+                "Ismail Darbar",
+                "A.R. Rahman",
+                "Anu Malik",
+                "Vishal-Shekhar"
+            ],
+            "answer": "Ismail Darbar"
+        },
+        {
+            "question": "Which singer is known as the 'Melody Queen'?",
+            "options": [
+                "Asha Bhosle",
+                "Lata Mangeshkar",
+                "Shreya Ghoshal",
+                "Alka Yagnik"
+            ],
+            "answer": "Asha Bhosle"
+        },
+        {
+            "question": "Which song from 'Baahubali' is sung by Kailash Kher?",
+            "options": [
+                "Kaun Hai Voh",
+                "Dheevara",
+                "Manohari",
+                "Sivuni Aana"
+            ],
+            "answer": "Kaun Hai Voh"
+        },
+        {
+            "question": "Which instrument is Ustad Zakir Hussain associated with?",
+            "options": [
+                "Tabla",
+                "Sitar",
+                "Santoor",
+                "Flute"
+            ],
+            "answer": "Tabla"
+        },
+        {
+            "question": "Which song from 'Dhoom' became an anthem for Bollywood action films?",
+            "options": [
+                "Dhoom Machale",
+                "Shikdum",
+                "Dhoom Dhoom",
+                "Crazy Kiya Re"
+            ],
+            "answer": "Dhoom Machale"
+        },
+        {
+            "question": "Which music director composed the music for 'Taal'?",
+            "options": [
+                "A.R. Rahman",
+                "Anu Malik",
+                "Jatin-Lalit",
+                "R.D. Burman"
+            ],
+            "answer": "A.R. Rahman"
+        },
+        {
+            "question": "Which folk music form is associated with Rajasthan?",
+            "options": [
+                "Maand",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Maand"
+        },
+        {
+            "question": "Who sang 'Gerua' from 'Dilwale'?",
+            "options": [
+                "Arijit Singh and Antara Mitra",
+                "Sonu Nigam and Shreya Ghoshal",
+                "Atif Aslam and Sunidhi Chauhan",
+                "Udit Narayan and Alka Yagnik"
+            ],
+            "answer": "Arijit Singh and Antara Mitra"
+        },
+        {
+            "question": "Which classical vocalist is known for the Patiala Gharana?",
+            "options": [
+                "Ustad Bade Ghulam Ali Khan",
+                "Pandit Bhimsen Joshi",
+                "Kumar Gandharva",
+                "Pandit Jasraj"
+            ],
+            "answer": "Ustad Bade Ghulam Ali Khan"
+        },
+        {
+            "question": "Which song from 'Zindagi Na Milegi Dobara' is sung by Farhan Akhtar?",
+            "options": [
+                "Senorita",
+                "Dil Dhadakne Do",
+                "Sooraj Ki Baahon Mein",
+                "Khaabon Ke Parinday"
+            ],
+            "answer": "Senorita"
+        },
+        {
+            "question": "Which music composer is known for the film 'Guide'?",
+            "options": [
+                "S.D. Burman",
+                "R.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "S.D. Burman"
+        },
+        {
+            "question": "Which singer is known for the song 'Mitwa' from 'Kabhi Alvida Naa Kehna'?",
+            "options": [
+                "Shankar Mahadevan",
+                "Sonu Nigam",
+                "Arijit Singh",
+                "Udit Narayan"
+            ],
+            "answer": "Shankar Mahadevan"
+        },
+        {
+            "question": "Which folk music form is associated with Assam?",
+            "options": [
+                "Bihu",
+                "Lavani",
+                "Garba",
+                "Maand"
+            ],
+            "answer": "Bihu"
+        },
+        {
+            "question": "Which song from 'Rockstar' is sung by Mohit Chauhan?",
+            "options": [
+                "Nadaan Parindey",
+                "Jo Bhi Main",
+                "Katiya Karun",
+                "Phir Se Ud Chala"
+            ],
+            "answer": "Nadaan Parindey"
+        },
+        {
+            "question": "Which music director composed the music for 'Piku'?",
+            "options": [
+                "Anupam Roy",
+                "A.R. Rahman",
+                "Vishal-Shekhar",
+                "Pritam"
+            ],
+            "answer": "Anupam Roy"
+        },
+        {
+            "question": "Which singer is known for the song 'Chand Sifarish' from 'Fanaa'?",
+            "options": [
+                "Shaan",
+                "Sonu Nigam",
+                "Arijit Singh",
+                "Udit Narayan"
+            ],
+            "answer": "Shaan"
+        },
+        {
+            "question": "Which instrument is Pandit Hariprasad Chaurasia associated with?",
+            "options": [
+                "Flute",
+                "Sitar",
+                "Tabla",
+                "Santoor"
+            ],
+            "answer": "Flute"
+        },
+        {
+            "question": "Which song from 'Queen' is sung by Labh Janjua?",
+            "options": [
+                "London Thumakda",
+                "Kinare",
+                "Badra Bahaar",
+                "Ranjha Ranjha"
+            ],
+            "answer": "London Thumakda"
+        },
+        {
+            "question": "Which music composer is known for the film 'Umrao Jaan' (1981)?",
+            "options": [
+                "Khayyam",
+                "Naushad",
+                "Madan Mohan",
+                "R.D. Burman"
+            ],
+            "answer": "Khayyam"
+        },
+        {
+            "question": "Which folk music form is associated with Maharashtra?",
+            "options": [
+                "Lavani",
+                "Bihu",
+                "Garba",
+                "Maand"
+            ],
+            "answer": "Lavani"
+        },
+        {
+            "question": "Who sang 'Sawaar Loon' from 'Lootera'?",
+            "options": [
+                "Monali Thakur",
+                "Shreya Ghoshal",
+                "Sunidhi Chauhan",
+                "Anusha Mani"
+            ],
+            "answer": "Monali Thakur"
+        },
+        {
+            "question": "Which classical vocalist is known for the Jaipur Gharana?",
+            "options": [
+                "Kishori Amonkar",
+                "Bhimsen Joshi",
+                "Ustad Amir Khan",
+                "Pandit Jasraj"
+            ],
+            "answer": "Kishori Amonkar"
+        },
+        {
+            "question": "Which song from 'Bajirao Mastani' is sung by Shreya Ghoshal?",
+            "options": [
+                "Deewani Mastani",
+                "Mohe Rang Do Laal",
+                "Pinga",
+                "Albela Sajan"
+            ],
+            "answer": "Deewani Mastani"
+        },
+        {
+            "question": "Which music director composed the music for 'Gully Boy'?",
+            "options": [
+                "Various Artists",
+                "Pritam",
+                "A.R. Rahman",
+                "Vishal-Shekhar"
+            ],
+            "answer": "Various Artists"
+        },
+        {
+            "question": "Which singer is known for the song 'Pehli Baar Mohabbat' from 'Kismat Konnection'?",
+            "options": [
+                "Mohit Chauhan",
+                "Sonu Nigam",
+                "Arijit Singh",
+                "Atif Aslam"
+            ],
+            "answer": "Mohit Chauhan"
+        },
+        {
+            "question": "Which instrument is Ustad Amjad Ali Khan associated with?",
+            "options": [
+                "Sarod",
+                "Sitar",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Sarod"
+        },
+        {
+            "question": "Which song from 'Tamasha' is sung by Arijit Singh?",
+            "options": [
+                "Agar Tum Saath Ho",
+                "Heer Toh Badi Sad Hai",
+                "Wat Wat Wat",
+                "Matargashti"
+            ],
+            "answer": "Agar Tum Saath Ho"
+        },
+        {
+            "question": "Which music composer is known for the film 'Mother India'?",
+            "options": [
+                "Naushad",
+                "S.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "Naushad"
+        },
+        {
+            "question": "Which folk music form is associated with West Bengal?",
+            "options": [
+                "Baul",
+                "Bihu",
+                "Lavani",
+                "Maand"
+            ],
+            "answer": "Baul"
+        },
+        {
+            "question": "Who sang 'Badtameez Dil' from 'Yeh Jawaani Hai Deewani'?",
+            "options": [
+                "Benny Dayal",
+                "Arijit Singh",
+                "Mohit Chauhan",
+                "Mika Singh"
+            ],
+            "answer": "Benny Dayal"
+        },
+        {
+            "question": "Which classical vocalist is known for the Gwalior Gharana?",
+            "options": [
+                "Kumar Gandharva",
+                "Bhimsen Joshi",
+                "Kishori Amonkar",
+                "Ustad Amir Khan"
+            ],
+            "answer": "Kumar Gandharva"
+        },
+        {
+            "question": "Which song from 'Padmaavat' is sung by Shivam Pathak?",
+            "options": [
+                "Khalibali",
+                "Binte Dil",
+                "Ek Dil Ek Jaan",
+                "Holi"
+            ],
+            "answer": "Khalibali"
+        },
+        {
+            "question": "Which music director composed the music for 'Raanjhanaa'?",
+            "options": [
+                "A.R. Rahman",
+                "Pritam",
+                "Vishal-Shekhar",
+                "Anu Malik"
+            ],
+            "answer": "A.R. Rahman"
+        },
+        {
+            "question": "Which singer is known for the song 'Mauja Hi Mauja' from 'Jab We Met'?",
+            "options": [
+                "Mika Singh",
+                "Arijit Singh",
+                "Sonu Nigam",
+                "Shaan"
+            ],
+            "answer": "Mika Singh"
+        },
+        {
+            "question": "Which instrument is Pandit Shivkumar Sharma associated with?",
+            "options": [
+                "Santoor",
+                "Sitar",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Santoor"
+        },
+        {
+            "question": "Which song from 'Ae Dil Hai Mushkil' is sung by Arijit Singh?",
+            "options": [
+                "Channa Mereya",
+                "Bulleya",
+                "The Breakup Song",
+                "Alizeh"
+            ],
+            "answer": "Channa Mereya"
+        },
+        {
+            "question": "Which music composer is known for the film 'Shree 420'?",
+            "options": [
+                "Shankar-Jaikishan",
+                "S.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "Shankar-Jaikishan"
+        },
+        {
+            "question": "Which folk music form is associated with Tamil Nadu?",
+            "options": [
+                "Villu Paatu",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Villu Paatu"
+        },
+        {
+            "question": "Who sang 'Dil Dhadakne Do' from 'Zindagi Na Milegi Dobara'?",
+            "options": [
+                "Shankar Mahadevan, Alyssa Mendonsa, Mohit Chauhan",
+                "Arijit Singh, Sunidhi Chauhan",
+                "Sonu Nigam, Shreya Ghoshal",
+                "Udit Narayan, Alka Yagnik"
+            ],
+            "answer": "Shankar Mahadevan, Alyssa Mendonsa, Mohit Chauhan"
+        },
+        {
+            "question": "Which classical vocalist is known for the Mewati Gharana?",
+            "options": [
+                "Pandit Jasraj",
+                "Bhimsen Joshi",
+                "Kishori Amonkar",
+                "Kumar Gandharva"
+            ],
+            "answer": "Pandit Jasraj"
+        },
+        {
+            "question": "Which song from 'Devdas' (2002) is sung by Shreya Ghoshal?",
+            "options": [
+                "Silsila Ye Chahat Ka",
+                "Bairi Piya",
+                "Dola Re Dola",
+                "Maar Dala"
+            ],
+            "answer": "Dola Re Dola"
+        },
+        {
+            "question": "Which music director composed the music for 'Barfi!'?",
+            "options": [
+                "Pritam",
+                "A.R. Rahman",
+                "Vishal-Shekhar",
+                "Anu Malik"
+            ],
+            "answer": "Pritam"
+        },
+        {
+            "question": "Which singer is known for the song 'Yeh Ishq Hai' from 'Jab We Met'?",
+            "options": [
+                "Shreya Ghoshal",
+                "Sunidhi Chauhan",
+                "Alka Yagnik",
+                "Kavita Krishnamurthy"
+            ],
+            "answer": "Shreya Ghoshal"
+        },
+        {
+            "question": "Which instrument is Ustad Bismillah Khan associated with?",
+            "options": [
+                "Shehnai",
+                "Sitar",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Shehnai"
+        },
+        {
+            "question": "Which song from 'Bhaag Milkha Bhaag' is sung by Siddharth Mahadevan?",
+            "options": [
+                "Zinda",
+                "Maston Ka Jhund",
+                "Bhaag Milkha Bhaag",
+                "Slow Motion Angreza"
+            ],
+            "answer": "Zinda"
+        },
+        {
+            "question": "Which music composer is known for the film 'Pyaasa'?",
+            "options": [
+                "S.D. Burman",
+                "R.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "S.D. Burman"
+        },
+        {
+            "question": "Which folk music form is associated with Karnataka?",
+            "options": [
+                "Janapada",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Janapada"
+        },
+        {
+            "question": "Who sang 'Balam Pichkari' from 'Yeh Jawaani Hai Deewani'?",
+            "options": [
+                "Vishal Dadlani and Shalmali Kholgade",
+                "Arijit Singh and Sunidhi Chauhan",
+                "Mohit Chauhan and Shreya Ghoshal",
+                "Mika Singh and Sunidhi Chauhan"
+            ],
+            "answer": "Vishal Dadlani and Shalmali Kholgade"
+        },
+        {
+            "question": "Which classical vocalist is known for the Agra Gharana?",
+            "options": [
+                "Ustad Faiyaz Khan",
+                "Bhimsen Joshi",
+                "Kishori Amonkar",
+                "Pandit Jasraj"
+            ],
+            "answer": "Ustad Faiyaz Khan"
+        },
+        {
+            "question": "Which song from 'Gully Boy' is sung by Ranveer Singh?",
+            "options": [
+                "Apna Time Aayega",
+                "Asli Hip Hop",
+                "Mere Gully Mein",
+                "Doori"
+            ],
+            "answer": "Apna Time Aayega"
+        },
+        {
+            "question": "Which music director composed the music for 'Chak De! India'?",
+            "options": [
+                "Salim-Sulaiman",
+                "Pritam",
+                "A.R. Rahman",
+                "Vishal-Shekhar"
+            ],
+            "answer": "Salim-Sulaiman"
+        },
+        {
+            "question": "Which singer is known for the song 'Katiya Karun' from 'Rockstar'?",
+            "options": [
+                "Harshdeep Kaur",
+                "Shreya Ghoshal",
+                "Sunidhi Chauhan",
+                "Kavita Krishnamurthy"
+            ],
+            "answer": "Harshdeep Kaur"
+        },
+        {
+            "question": "Which instrument is Pandit Vishwa Mohan Bhatt associated with?",
+            "options": [
+                "Mohan Veena",
+                "Sitar",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Mohan Veena"
+        },
+        {
+            "question": "Which song from 'Padman' is sung by Arijit Singh?",
+            "options": [
+                "Aaj Se Teri",
+                "Hu Ba Hu",
+                "Saale Sapne",
+                "Sayaani"
+            ],
+            "answer": "Aaj Se Teri"
+        },
+        {
+            "question": "Which music composer is known for the film 'Anand'?",
+            "options": [
+                "Salil Chowdhury",
+                "S.D. Burman",
+                "R.D. Burman",
+                "Madan Mohan"
+            ],
+            "answer": "Salil Chowdhury"
+        },
+        {
+            "question": "Which folk music form is associated with Kerala?",
+            "options": [
+                "Pulluvan Pattu",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Pulluvan Pattu"
+        },
+        {
+            "question": "Who sang 'Pinga' from 'Bajirao Mastani'?",
+            "options": [
+                "Shreya Ghoshal and Vaishali Made",
+                "Sunidhi Chauhan and Shreya Ghoshal",
+                "Alka Yagnik and Kavita Krishnamurthy",
+                "Asha Bhosle and Lata Mangeshkar"
+            ],
+            "answer": "Shreya Ghoshal and Vaishali Made"
+        },
+        {
+            "question": "Which classical vocalist is known for the Banaras Gharana?",
+            "options": [
+                "Girija Devi",
+                "Bhimsen Joshi",
+                "Kishori Amonkar",
+                "Pandit Jasraj"
+            ],
+            "answer": "Girija Devi"
+        },
+        {
+            "question": "Which song from 'Sultan' is sung by Sukhwinder Singh?",
+            "options": [
+                "Jag Ghoomeya",
+                "Sultan Title Track",
+                "Baby Ko Bass Pasand Hai",
+                "440 Volt"
+            ],
+            "answer": "Sultan Title Track"
+        },
+        {
+            "question": "Which music director composed the music for 'Queen'?",
+            "options": [
+                "Amit Trivedi",
+                "Pritam",
+                "A.R. Rahman",
+                "Vishal-Shekhar"
+            ],
+            "answer": "Amit Trivedi"
+        },
+        {
+            "question": "Which singer is known for the song 'Jo Bhi Main' from 'Rockstar'?",
+            "options": [
+                "Mohit Chauhan",
+                "Arijit Singh",
+                "Sonu Nigam",
+                "Shaan"
+            ],
+            "answer": "Mohit Chauhan"
+        },
+        {
+            "question": "Which instrument is Ustad Vilayat Khan associated with?",
+            "options": [
+                "Sitar",
+                "Sarod",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Sitar"
+        },
+        {
+            "question": "Which song from 'Dangal' is sung by Arijit Singh?",
+            "options": [
+                "Gilehriyaan",
+                "Haanikaarak Bapu",
+                "Dangal Title Track",
+                "Naina"
+            ],
+            "answer": "Naina"
+        },
+        {
+            "question": "Which music composer is known for the film 'Kaagaz Ke Phool'?",
+            "options": [
+                "S.D. Burman",
+                "R.D. Burman",
+                "O.P. Nayyar",
+                "Madan Mohan"
+            ],
+            "answer": "S.D. Burman"
+        },
+        {
+            "question": "Which folk music form is associated with Andhra Pradesh?",
+            "options": [
+                "Burrakatha",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Burrakatha"
+        },
+        {
+            "question": "Who sang 'Binte Dil' from 'Padmaavat'?",
+            "options": [
+                "Arijit Singh",
+                "Shreya Ghoshal",
+                "Sunidhi Chauhan",
+                "Shankar Mahadevan"
+            ],
+            "answer": "Arijit Singh"
+        },
+        {
+            "question": "Which classical vocalist is known for the Rampur-Sahaswan Gharana?",
+            "options": [
+                "Ustad Rashid Khan",
+                "Bhimsen Joshi",
+                "Kishori Amonkar",
+                "Pandit Jasraj"
+            ],
+            "answer": "Ustad Rashid Khan"
+        },
+        {
+            "question": "Which song from 'Munnabhai MBBS' is sung by Vinod Rathod?",
+            "options": [
+                "M Bole To",
+                "Chan Chan",
+                "Dekh Le",
+                "Apun Jaise Tapori"
+            ],
+            "answer": "M Bole To"
+        },
+        {
+            "question": "Which music director composed the music for 'Swades'?",
+            "options": [
+                "A.R. Rahman",
+                "Pritam",
+                "Vishal-Shekhar",
+                "Anu Malik"
+            ],
+            "answer": "A.R. Rahman"
+        },
+        {
+            "question": "Which singer is known for the song 'Phir Se Ud Chala' from 'Rockstar'?",
+            "options": [
+                "Mohit Chauhan",
+                "Arijit Singh",
+                "Sonu Nigam",
+                "Shaan"
+            ],
+            "answer": "Mohit Chauhan"
+        },
+        {
+            "question": "Which instrument is Anoushka Shankar associated with?",
+            "options": [
+                "Sitar",
+                "Sarod",
+                "Tabla",
+                "Flute"
+            ],
+            "answer": "Sitar"
+        },
+        {
+            "question": "Which song from 'PK' is sung by Sonu Nigam?",
+            "options": [
+                "Bhagwan Hai Kahan Re Tu",
+                "Tharki Chokro",
+                "Love Is a Waste of Time",
+                "Nanga Punga Dost"
+            ],
+            "answer": "Bhagwan Hai Kahan Re Tu"
+        },
+        {
+            "question": "Which music composer is known for the film 'Bobby'?",
+            "options": [
+                "Laxmikant-Pyarelal",
+                "S.D. Burman",
+                "R.D. Burman",
+                "Madan Mohan"
+            ],
+            "answer": "Laxmikant-Pyarelal"
+        },
+        {
+            "question": "Which folk music form is associated with Odisha?",
+            "options": [
+                "Chhau",
+                "Bihu",
+                "Lavani",
+                "Baul"
+            ],
+            "answer": "Chhau"
+        }
+    ]

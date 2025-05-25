@@ -1,0 +1,952 @@
+[
+        {
+            "question": "Which Indian company developed the 'Aadhaar' authentication system?",
+            "options": [
+                "UIDAI",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "UIDAI"
+        },
+        {
+            "question": "Which city is known as the 'Silicon Valley of India'?",
+            "options": [
+                "Bengaluru",
+                "Hyderabad",
+                "Pune",
+                "Chennai"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Which Indian startup developed the 'Postman' API testing tool?",
+            "options": [
+                "Postman Inc.",
+                "Zoho",
+                "Freshworks",
+                "InMobi"
+            ],
+            "answer": "Postman Inc."
+        },
+        {
+            "question": "What is the name of India’s first indigenous supercomputer series?",
+            "options": [
+                "PARAM",
+                "Shakti",
+                "Pratyush",
+                "Mihir"
+            ],
+            "answer": "PARAM"
+        },
+        {
+            "question": "Which Indian institute developed the 'Shakti' microprocessor?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "Which Indian company is known for its 'Finacle' banking software?",
+            "options": [
+                "Infosys",
+                "TCS",
+                "Wipro",
+                "HCL"
+            ],
+            "answer": "Infosys"
+        },
+        {
+            "question": "Which Indian platform is popular for competitive programming?",
+            "options": [
+                "CodeChef",
+                "HackerRank",
+                "LeetCode",
+                "Codeforces"
+            ],
+            "answer": "CodeChef"
+        },
+        {
+            "question": "Which technology powers the Unified Payments Interface (UPI) in India?",
+            "options": [
+                "NPCI",
+                "RBI",
+                "IMPS",
+                "NEFT"
+            ],
+            "answer": "NPCI"
+        },
+        {
+            "question": "Which Indian startup developed the 'Paytm' payment platform?",
+            "options": [
+                "One97 Communications",
+                "Razorpay",
+                "PhonePe",
+                "Freecharge"
+            ],
+            "answer": "One97 Communications"
+        },
+        {
+            "question": "What does ISRO stand for?",
+            "options": [
+                "Indian Space Research Organisation",
+                "Indian Satellite Research Office",
+                "Indian Scientific Research Organisation",
+                "Indian Systems Research Office"
+            ],
+            "answer": "Indian Space Research Organisation"
+        },
+        {
+            "question": "Which Indian company developed the 'Zoho Creator' low-code platform?",
+            "options": [
+                "Zoho",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Zoho"
+        },
+        {
+            "question": "Which Indian institute hosts the 'Smart India Hackathon'?",
+            "options": [
+                "AICTE",
+                "IIT Delhi",
+                "IIT Bombay",
+                "NIT Trichy"
+            ],
+            "answer": "AICTE"
+        },
+        {
+            "question": "Which Indian startup developed the 'Razorpay' payment gateway?",
+            "options": [
+                "Razorpay",
+                "Paytm",
+                "PhonePe",
+                "Freecharge"
+            ],
+            "answer": "Razorpay"
+        },
+        {
+            "question": "Which Indian company developed the 'Tally' accounting software?",
+            "options": [
+                "Tally Solutions",
+                "Zoho",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Tally Solutions"
+        },
+        {
+            "question": "Which Indian city hosts the annual 'PyCon India' conference?",
+            "options": [
+                "Varies (e.g., Hyderabad, Chennai)",
+                "Bengaluru",
+                "Mumbai",
+                "Delhi"
+            ],
+            "answer": "Varies (e.g., Hyderabad, Chennai)"
+        },
+        {
+            "question": "Which Indian startup developed the 'Ola' ride-sharing platform?",
+            "options": [
+                "ANI Technologies",
+                "Uber India",
+                "Zoho",
+                "InMobi"
+            ],
+            "answer": "ANI Technologies"
+        },
+        {
+            "question": "Which Indian institute developed the 'Swayam' e-learning platform?",
+            "options": [
+                "AICTE",
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore"
+            ],
+            "answer": "AICTE"
+        },
+        {
+            "question": "Which Indian company developed the 'Freshdesk' customer support software?",
+            "options": [
+                "Freshworks",
+                "Zoho",
+                "Infosys",
+                "TCS"
+            ],
+            "answer": "Freshworks"
+        },
+        {
+            "question": "Which Indian startup developed the 'Swiggy' food delivery platform?",
+            "options": [
+                "Bundl Technologies",
+                "Zomato",
+                "Foodpanda",
+                "Uber Eats"
+            ],
+            "answer": "Bundl Technologies"
+        },
+        {
+            "question": "Which Indian platform is known for tech tutorials and blogs?",
+            "options": [
+                "Javatpoint",
+                "HackerRank",
+                "LeetCode",
+                "Codeforces"
+            ],
+            "answer": "Javatpoint"
+        },
+        {
+            "question": "Which Indian company developed the 'Myntra' e-commerce platform?",
+            "options": [
+                "Myntra Designs",
+                "Flipkart",
+                "Amazon India",
+                "Snapdeal"
+            ],
+            "answer": "Myntra Designs"
+        },
+        {
+            "question": "Which Indian institute developed the 'Eklavya' e-learning platform?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "question": "Which Indian startup developed the 'Koo' social media platform?",
+            "options": [
+                "Bombinate Technologies",
+                "Zoho",
+                "Freshworks",
+                "InMobi"
+            ],
+            "answer": "Bombinate Technologies"
+        },
+        {
+            "question": "Which Indian company developed the 'Hike' messaging app?",
+            "options": [
+                "Hike Private Limited",
+                "Zoho",
+                "InMobi",
+                "Freshworks"
+            ],
+            "answer": "Hike Private Limited"
+        },
+        {
+            "question": "Which Indian institute developed the 'Anusandhan' research platform?",
+            "options": [
+                "IIT Kanpur",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Kanpur"
+        },
+        {
+            "question": "Which Indian company developed the 'BigBasket' e-commerce platform?",
+            "options": [
+                "Innovative Retail Concepts",
+                "Zomato",
+                "Swiggy",
+                "Flipkart"
+            ],
+            "answer": "Innovative Retail Concepts"
+        },
+        {
+            "question": "Which Indian satellite was launched to study the Moon’s surface?",
+            "options": [
+                "Chandrayaan",
+                "Mangalyaan",
+                "INSAT",
+                "RISAT"
+            ],
+            "answer": "Chandrayaan"
+        },
+        {
+            "question": "Which Indian organization developed the 'BHIM' UPI app?",
+            "options": [
+                "NPCI",
+                "RBI",
+                "SBI",
+                "UIDAI"
+            ],
+            "answer": "NPCI"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of TCS?",
+            "options": [
+                "Mumbai",
+                "Bengaluru",
+                "Hyderabad",
+                "Chennai"
+            ],
+            "answer": "Mumbai"
+        },
+        {
+            "question": "Which Indian startup developed the 'PhonePe' payment platform?",
+            "options": [
+                "PhonePe",
+                "Paytm",
+                "Razorpay",
+                "Freecharge"
+            ],
+            "answer": "PhonePe"
+        },
+        {
+            "question": "Which technology is used in India’s 'DigiLocker' platform?",
+            "options": [
+                "Cloud Storage",
+                "Blockchain",
+                "AI",
+                "IoT"
+            ],
+            "answer": "Cloud Storage"
+        },
+        {
+            "question": "Which Indian institute hosts the 'CodeStreet' coding event?",
+            "options": [
+                "IIT Bombay",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Bombay"
+        },
+        {
+            "question": "Which Indian company is known for its 'Wipro Lighting' IoT solutions?",
+            "options": [
+                "Wipro",
+                "TCS",
+                "Infosys",
+                "HCL"
+            ],
+            "answer": "Wipro"
+        },
+        {
+            "question": "Which Indian satellite was launched to study Mars?",
+            "options": [
+                "Mangalyaan",
+                "Chandrayaan",
+                "INSAT",
+                "RISAT"
+            ],
+            "answer": "Mangalyaan"
+        },
+        {
+            "question": "Which Indian platform is used for open-source contributions?",
+            "options": [
+                "GitHub",
+                "GitLab",
+                "Bitbucket",
+                "SourceForge"
+            ],
+            "answer": "GitHub"
+        },
+        {
+            "question": "Which Indian company developed the 'Zomato' food delivery platform?",
+            "options": [
+                "Zomato",
+                "SwFacenav",
+                "Swiggy",
+                "Foodpanda"
+            ],
+            "answer": "Zomato"
+        },
+        {
+            "question": "Which Indian institute developed the 'Ezhil' programming language for Tamil speakers?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "Which technology is used for real-time train tracking in Indian Railways?",
+            "options": [
+                "GPS",
+                "RFID",
+                "IoT",
+                "Blockchain"
+            ],
+            "answer": "GPS"
+        },
+        {
+            "question": "Which Indian company developed the 'Byju’s' e-learning platform?",
+            "options": [
+                "Think and Learn Pvt. Ltd.",
+                "Unacademy",
+                "Vedantu",
+                "Toppr"
+            ],
+            "answer": "Think and Learn Pvt. Ltd."
+        },
+        {
+            "question": "Which Indian organization developed the 'CoWIN' platform for COVID-19 vaccination?",
+            "options": [
+                "Ministry of Health",
+                "NITI Aayog",
+                "NPCI",
+                "UIDAI"
+            ],
+            "answer": "Ministry of Health"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of Infosys?",
+            "options": [
+                "Bengaluru",
+                "Mumbai",
+                "Hyderabad",
+                "Pune"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Which Indian startup developed the 'Unacademy' e-learning platform?",
+            "options": [
+                "Unacademy",
+                "Byju’s",
+                "Vedantu",
+                "Toppr"
+            ],
+            "answer": "Unacademy"
+        },
+        {
+            "question": "Which technology is used in India’s 'FASTag' toll collection system?",
+            "options": [
+                "RFID",
+                "GPS",
+                "NFC",
+                "QR Code"
+            ],
+            "answer": "RFID"
+        },
+        {
+            "question": "Which Indian company is known for its 'HCL BigFix' cybersecurity platform?",
+            "options": [
+                "HCL",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "HCL"
+        },
+        {
+            "question": "Which Indian institute developed the 'Bharat Operating System Solutions' (BOSS)?",
+            "options": [
+                "C-DAC",
+                "DRDO",
+                "ISRO",
+                "BARC"
+            ],
+            "answer": "C-DAC"
+        },
+        {
+            "question": "Which Indian startup developed the 'InMobi' mobile advertising platform?",
+            "options": [
+                "InMobi",
+                "Zoho",
+                "Freshworks",
+                "Postman Inc."
+            ],
+            "answer": "InMobi"
+        },
+        {
+            "question": "Which Indian satellite provides weather forecasting data?",
+            "options": [
+                "INSAT",
+                "Chandrayaan",
+                "Mangalyaan",
+                "RISAT"
+            ],
+            "answer": "INSAT"
+        },
+        {
+            "question": "Which Indian company developed the 'Quick Heal' antivirus software?",
+            "options": [
+                "Quick Heal Technologies",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Quick Heal Technologies"
+        },
+        {
+            "question": "Which Indian city hosts the 'IndiaHacks' coding competition?",
+            "options": [
+                "Hyderabad",
+                "Bengaluru",
+                "Mumbai",
+                "Delhi"
+            ],
+            "answer": "Hyderabad"
+        },
+        {
+            "question": "Which Indian startup developed the 'Vedantu' e-learning platform?",
+            "options": [
+                "Vedantu",
+                "Byju’s",
+                "Unacademy",
+                "Toppr"
+            ],
+            "answer": "Vedantu"
+        },
+        {
+            "question": "Which technology is used in India’s 'Aarogya Setu' contact-tracing app?",
+            "options": [
+                "Bluetooth",
+                "GPS",
+                "RFID",
+                "QR Code"
+            ],
+            "answer": "Bluetooth"
+        },
+        {
+            "question": "Which Indian company developed the 'Snapdeal' e-commerce platform?",
+            "options": [
+                "Jasper Infotech",
+                "Flipkart",
+                "Amazon India",
+                "Myntra"
+            ],
+            "answer": "Jasper Infotech"
+        },
+        {
+            "question": "Which Indian institute developed the ‘Pratyush’ supercomputer?",
+            "options": [
+                "Indian Institute of Tropical Meteorology",
+                "IIT Madras",
+                "IISc Bangalore",
+                "C-DAC"
+            ],
+            "answer": "Indian Institute of Tropical Meteorology"
+        },
+        {
+            "question": "Which Indian startup developed the 'Toppr' e-learning platform?",
+            "options": [
+                "Toppr",
+                "Byju’s",
+                "Unacademy",
+                "Vedantu"
+            ],
+            "answer": "Toppr"
+        },
+        {
+            "question": "Which Indian organization developed the 'NavIC' navigation system?",
+            "options": [
+                "ISRO",
+                "DRDO",
+                "C-DAC",
+                "BARC"
+            ],
+            "answer": "ISRO"
+        },
+        {
+            "question": "Which Indian company is known for its 'TCS iON' digital learning platform?",
+            "options": [
+                "TCS",
+                "Infosys",
+                "Wipro",
+                "HCL"
+            ],
+            "answer": "TCS"
+        },
+        {
+            "question": "Which Indian startup developed the 'Freecharge' payment platform?",
+            "options": [
+                "Freecharge",
+                "Paytm",
+                "PhonePe",
+                "Razorpay"
+            ],
+            "answer": "Freecharge"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of Wipro?",
+            "options": [
+                "Bengaluru",
+                "Mumbai",
+                "Hyderabad",
+                "Pune"
+            ],
+            "answer": "Bengaluru"
+        },
+        {
+            "question": "Which Indian platform is known for open-source software contributions?",
+            "options": [
+                "GitHub",
+                "GitLab",
+                "Bitbucket",
+                "SourceForge"
+            ],
+            "answer": "GitHub"
+        },
+        {
+            "question": "Which Indian startup developed the 'BookMyShow' ticketing platform?",
+            "options": [
+                "Bigtree Entertainment",
+                "TicketNew",
+                "Paytm",
+                "Inox"
+            ],
+            "answer": "Bigtree Entertainment"
+        },
+        {
+            "question": "Which Indian institute developed the 'NPTEL' online course platform?",
+            "options": [
+                "IIT Madras",
+                "IIT Bombay",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "IIT Madras"
+        },
+        {
+            "question": "Which technology is used in India’s 'Smart Cities Mission' for urban management?",
+            "options": [
+                "IoT",
+                "Blockchain",
+                "AI",
+                "Cloud Computing"
+            ],
+            "answer": "IoT"
+        },
+        {
+            "question": "Which Indian company developed the 'Drishti' AI-based vision system?",
+            "options": [
+                "DRDO",
+                "ISRO",
+                "C-DAC",
+                "BARC"
+            ],
+            "answer": "DRDO"
+        },
+        {
+            "question": "Which Indian startup developed the 'UrbanClap' service platform?",
+            "options": [
+                "Urban Company",
+                "Housejoy",
+                "Quikr",
+                "Justdial"
+            ],
+            "answer": "Urban Company"
+        },
+        {
+            "question": "Which Indian satellite provides communication services?",
+            "options": [
+                "GSAT",
+                "Chandrayaan",
+                "Mangalyaan",
+                "RISAT"
+            ],
+            "answer": "GSAT"
+        },
+        {
+            "question": "Which Indian company is known for its 'Cognizant Digital Business' platform?",
+            "options": [
+                "Cognizant",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Cognizant"
+        },
+        {
+            "question": "Which Indian startup developed the 'Oyo' hospitality platform?",
+            "options": [
+                "Oravel Stays",
+                "Treebo",
+                "FabHotels",
+                "MakeMyTrip"
+            ],
+            "answer": "Oravel Stays"
+        },
+        {
+            "question": "Which Indian organization developed the 'UMANG' app for government services?",
+            "options": [
+                "NeGD",
+                "NPCI",
+                "UIDAI",
+                "RBI"
+            ],
+            "answer": "NeGD"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of HCL Technologies?",
+            "options": [
+                "Noida",
+                "Bengaluru",
+                "Mumbai",
+                "Hyderabad"
+            ],
+            "answer": "Noida"
+        },
+        {
+            "question": "Which Indian startup developed the 'PolicyBazaar' insurance platform?",
+            "options": [
+                "PB Fintech",
+                "Acko",
+                "Turtlemint",
+                "Coverfox"
+            ],
+            "answer": "PB Fintech"
+        },
+        {
+            "question": "Which technology is used in India’s 'eKYC' system for identity verification?",
+            "options": [
+                "Biometrics",
+                "RFID",
+                "QR Code",
+                "NFC"
+            ],
+            "answer": "Biometrics"
+        },
+        {
+            "question": "Which Indian company developed the 'LTI Mindtree' digital transformation platform?",
+            "options": [
+                "LTI Mindtree",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "LTI Mindtree"
+        },
+        {
+            "question": "Which Indian startup developed the 'Dunzo' delivery platform?",
+            "options": [
+                "Dunzo",
+                "Swiggy",
+                "Zomato",
+                "BigBasket"
+            ],
+            "answer": "Dunzo"
+        },
+        {
+            "question": "Which Indian institute developed the 'Mihir' supercomputer?",
+            "options": [
+                "Centre for Development of Advanced Computing",
+                "IIT Madras",
+                "IISc Bangalore",
+                "IIT Delhi"
+            ],
+            "answer": "Centre for Development of Advanced Computing"
+        },
+        {
+            "question": "Which Indian company is known for its 'Tech Mahindra SMART' platform?",
+            "options": [
+                "Tech Mahindra",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Tech Mahindra"
+        },
+        {
+            "question": "Which Indian startup developed the 'Practo' healthcare platform?",
+            "options": [
+                "Practo",
+                "1mg",
+                "Netmeds",
+                "Pharmeasy"
+            ],
+            "answer": "Practo"
+        },
+        {
+            "question": "Which Indian satellite provides earth observation data?",
+            "options": [
+                "RISAT",
+                "Chandrayaan",
+                "Mangalyaan",
+                "INSAT"
+            ],
+            "answer": "RISAT"
+        },
+        {
+            "question": "Which Indian company developed the 'K7 Computing' antivirus software?",
+            "options": [
+                "K7 Computing",
+                "Quick Heal",
+                "TCS",
+                "Infosys"
+            ],
+            "answer": "K7 Computing"
+        },
+        {
+            "question": "Which Indian startup developed the '1mg' healthcare platform?",
+            "options": [
+                "1mg",
+                "Practo",
+                "Netmeds",
+                "Pharmeasy"
+            ],
+            "answer": "1mg"
+        },
+        {
+            "question": "Which Indian organization developed the 'e-Gov' app for government services?",
+            "options": [
+                "NeGD",
+                "NPCI",
+                "UIDAI",
+                "RBI"
+            ],
+            "answer": "NeGD"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of Zoho Corporation?",
+            "options": [
+                "Chennai",
+                "Bengaluru",
+                "Mumbai",
+                "Hyderabad"
+            ],
+            "answer": "Chennai"
+        },
+        {
+            "question": "Which Indian startup developed the 'Pharmeasy' healthcare platform?",
+            "options": [
+                "Pharmeasy",
+                "1mg",
+                "Practo",
+                "Netmeds"
+            ],
+            "answer": "Pharmeasy"
+        },
+        {
+            "question": "Which technology is used in India’s 'Bharat Bill Payment System' (BBPS)?",
+            "options": [
+                "NPCI",
+                "RFID",
+                "Blockchain",
+                "IoT"
+            ],
+            "answer": "NPCI"
+        },
+        {
+            "question": "Which Indian company developed the 'Hexaware Amaze' cloud platform?",
+            "options": [
+                "Hexaware Technologies",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Hexaware Technologies"
+        },
+        {
+            "question": "Which Indian startup developed the 'Netmeds' healthcare platform?",
+            "options": [
+                "Netmeds",
+                "1mg",
+                "Practo",
+                "Pharmeasy"
+            ],
+            "answer": "Netmeds"
+        },
+        {
+            "question": "Which Indian institute developed the 'Vikas' engine for ISRO rockets?",
+            "options": [
+                "ISRO",
+                "DRDO",
+                "C-DAC",
+                "BARC"
+            ],
+            "answer": "ISRO"
+        },
+        {
+            "question": "Which Indian company is known for its 'Atlassian' software distribution in India?",
+            "options": [
+                "Atlassian (via partners)",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Atlassian (via partners)"
+        },
+        {
+            "question": "Which Indian startup developed the 'ShopClues' e-commerce platform?",
+            "options": [
+                "Clues Network",
+                "Flipkart",
+                "Amazon India",
+                "Snapdeal"
+            ],
+            "answer": "Clues Network"
+        },
+        {
+            "question": "Which Indian organization developed the 'MyGov' citizen engagement platform?",
+            "options": [
+                "NeGD",
+                "NPCI",
+                "UIDAI",
+                "RBI"
+            ],
+            "answer": "NeGD"
+        },
+        {
+            "question": "Which Indian city is home to the headquarters of Tech Mahindra?",
+            "options": [
+                "Pune",
+                "Bengaluru",
+                "Mumbai",
+                "Hyderabad"
+            ],
+            "answer": "Pune"
+        },
+        {
+            "question": "Which Indian startup developed the 'Acko' insurance platform?",
+            "options": [
+                "Acko",
+                "PolicyBazaar",
+                "Turtlemint",
+                "Coverfox"
+            ],
+            "answer": "Acko"
+        },
+        {
+            "question": "Which technology is used in India’s 'Smart Meter' initiative for electricity billing?",
+            "options": [
+                "IoT",
+                "Blockchain",
+                "AI",
+                "Cloud Computing"
+            ],
+            "answer": "IoT"
+        },
+        {
+            "question": "Which Indian company developed the 'Persistent Systems' IoT platform?",
+            "options": [
+                "Persistent Systems",
+                "TCS",
+                "Infosys",
+                "Wipro"
+            ],
+            "answer": "Persistent Systems"
+        },
+        {
+            "question": "Which Indian startup developed the 'Turtlemint' insurance platform?",
+            "options": [
+                "Turtlemint",
+                "Acko",
+                "PolicyBazaar",
+                "Coverfox"
+            ],
+            "answer": "Turtlemint"
+        },
+        {
+            "question": "Which Indian satellite provides navigation services?",
+            "options": [
+                "IRNSS",
+                "Chandrayaan",
+                "Mangalyaan",
+                "INSAT"
+            ],
+            "answer": "IRNSS"
+        }
+    ]

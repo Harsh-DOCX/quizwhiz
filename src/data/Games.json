@@ -1,0 +1,922 @@
+[
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "BGMI",
+      "Valorant",
+      "Call of Duty Mobile"
+    ],
+    "correct_answer": "Call of Duty Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Bengaluru",
+      "Mumbai",
+      "Hyderabad"
+    ],
+    "correct_answer": "Bengaluru"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "JetSynthesys",
+      "99Games",
+      "Nazara Technologies"
+    ],
+    "correct_answer": "JetSynthesys"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "PUBG Mobile",
+      "Minecraft",
+      "BGMI"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "FAU-G",
+      "Valorant",
+      "Minecraft"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Pune",
+      "Delhi",
+      "Chennai"
+    ],
+    "correct_answer": "Delhi"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Nazara Technologies",
+      "nCore Games",
+      "Reliance Games"
+    ],
+    "correct_answer": "Reliance Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Fortnite",
+      "BGMI",
+      "PUBG Mobile"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "PUBG Mobile",
+      "Minecraft",
+      "Clash of Clans"
+    ],
+    "correct_answer": "PUBG Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "99Games",
+      "nCore Games",
+      "Reliance Games"
+    ],
+    "correct_answer": "99Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Minecraft",
+      "Call of Duty Mobile",
+      "Free Fire"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "BGMI",
+      "Minecraft",
+      "Call of Duty Mobile"
+    ],
+    "correct_answer": "BGMI"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Hyderabad"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Nazara Technologies",
+      "Reliance Games",
+      "nCore Games"
+    ],
+    "correct_answer": "Reliance Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "PUBG Mobile",
+      "Free Fire",
+      "Fortnite"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "BGMI",
+      "Among Us",
+      "PUBG Mobile"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Chennai",
+      "Hyderabad",
+      "Pune"
+    ],
+    "correct_answer": "Pune"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "99Games",
+      "Nazara Technologies",
+      "nCore Games"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "Minecraft",
+      "BGMI"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "PUBG Mobile",
+      "FAU-G"
+    ],
+    "correct_answer": "PUBG Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Bengaluru",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Nazara Technologies",
+      "Reliance Games",
+      "JetSynthesys"
+    ],
+    "correct_answer": "JetSynthesys"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "PUBG Mobile",
+      "Free Fire",
+      "Minecraft"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Among Us",
+      "Valorant",
+      "PUBG Mobile"
+    ],
+    "correct_answer": "PUBG Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Delhi"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Reliance Games",
+      "JetSynthesys",
+      "nCore Games"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "Fortnite",
+      "Free Fire"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Free Fire",
+      "PUBG Mobile",
+      "FAU-G"
+    ],
+    "correct_answer": "Free Fire"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Chennai",
+      "Bengaluru"
+    ],
+    "correct_answer": "Chennai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "JetSynthesys",
+      "Nazara Technologies",
+      "99Games"
+    ],
+    "correct_answer": "Nazara Technologies"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Among Us",
+      "PUBG Mobile",
+      "Free Fire"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "BGMI",
+      "Minecraft",
+      "Among Us"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Pune",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correct_answer": "Bengaluru"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "99Games",
+      "Nazara Technologies",
+      "nCore Games"
+    ],
+    "correct_answer": "99Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Free Fire",
+      "BGMI",
+      "Among Us"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Clash of Clans",
+      "Free Fire",
+      "Valorant"
+    ],
+    "correct_answer": "Valorant"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Pune",
+      "Chennai",
+      "Hyderabad"
+    ],
+    "correct_answer": "Chennai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "nCore Games",
+      "JetSynthesys",
+      "Nazara Technologies"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "Free Fire",
+      "Minecraft"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Candy Crush",
+      "Call of Duty Mobile",
+      "FAU-G"
+    ],
+    "correct_answer": "FAU-G"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Mumbai"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "nCore Games",
+      "Reliance Games",
+      "Nazara Technologies"
+    ],
+    "correct_answer": "Nazara Technologies"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Fortnite",
+      "PUBG Mobile",
+      "Free Fire"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Free Fire",
+      "BGMI",
+      "Valorant"
+    ],
+    "correct_answer": "Free Fire"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Delhi"
+    ],
+    "correct_answer": "Bengaluru"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "JetSynthesys",
+      "Reliance Games",
+      "nCore Games"
+    ],
+    "correct_answer": "Reliance Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "BGMI",
+      "Fortnite"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Minecraft",
+      "Candy Crush",
+      "Free Fire"
+    ],
+    "correct_answer": "Free Fire"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Chennai",
+      "Delhi",
+      "Mumbai"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Reliance Games",
+      "nCore Games",
+      "Nazara Technologies"
+    ],
+    "correct_answer": "Reliance Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "Free Fire",
+      "Minecraft"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "PUBG Mobile",
+      "Clash of Clans"
+    ],
+    "correct_answer": "Call of Duty Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Delhi",
+      "Chennai",
+      "Mumbai"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Nazara Technologies",
+      "JetSynthesys",
+      "nCore Games"
+    ],
+    "correct_answer": "JetSynthesys"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Call of Duty Mobile",
+      "Free Fire",
+      "Fortnite"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "PUBG Mobile",
+      "Valorant",
+      "Clash of Clans"
+    ],
+    "correct_answer": "PUBG Mobile"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Chennai",
+      "Pune",
+      "Hyderabad"
+    ],
+    "correct_answer": "Chennai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "nCore Games",
+      "JetSynthesys",
+      "Reliance Games"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "BGMI",
+      "Free Fire",
+      "Fortnite"
+    ],
+    "correct_answer": "Fortnite"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Candy Crush",
+      "Among Us",
+      "BGMI"
+    ],
+    "correct_answer": "Candy Crush"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Delhi",
+      "Hyderabad",
+      "Mumbai"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "JetSynthesys",
+      "nCore Games",
+      "99Games"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Free Fire",
+      "Call of Duty Mobile",
+      "Among Us"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "BGMI",
+      "Free Fire",
+      "Valorant"
+    ],
+    "correct_answer": "Valorant"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correct_answer": "Chennai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Reliance Games",
+      "JetSynthesys",
+      "nCore Games"
+    ],
+    "correct_answer": "JetSynthesys"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "PUBG Mobile",
+      "Minecraft",
+      "Call of Duty Mobile"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Free Fire",
+      "BGMI",
+      "Among Us"
+    ],
+    "correct_answer": "BGMI"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Chennai",
+      "Mumbai"
+    ],
+    "correct_answer": "Hyderabad"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Nazara Technologies",
+      "Reliance Games",
+      "99Games"
+    ],
+    "correct_answer": "Reliance Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "PUBG Mobile",
+      "Among Us",
+      "Call of Duty Mobile"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Minecraft",
+      "Candy Crush",
+      "BGMI"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Delhi"
+    ],
+    "correct_answer": "Hyderabad"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "JetSynthesys",
+      "99Games",
+      "nCore Games"
+    ],
+    "correct_answer": "nCore Games"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "BGMI",
+      "PUBG Mobile",
+      "Minecraft"
+    ],
+    "correct_answer": "Minecraft"
+  },
+  {
+    "question": "Which game is considered one of the most popular battle royale games in India?",
+    "options": [
+      "Valorant",
+      "Candy Crush",
+      "Among Us"
+    ],
+    "correct_answer": "Among Us"
+  },
+  {
+    "question": "Which Indian city hosted the PUBG Mobile India Series 2021 finals?",
+    "options": [
+      "Mumbai",
+      "Delhi",
+      "Pune"
+    ],
+    "correct_answer": "Mumbai"
+  },
+  {
+    "question": "Which Indian company developed the game 'FAU-G'?",
+    "options": [
+      "Reliance Games",
+      "Nazara Technologies",
+      "nCore Games"
+    ],
+    "correct_answer": "Nazara Technologies"
+  },
+  {
+    "question": "What is the maximum squad size in PUBG Mobile?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "4"
+  },
+  {
+    "question": "Which of these games is NOT banned in India?",
+    "options": [
+      "Among Us",
+      "PUBG Mobile",
+      "BGMI"
+    ],
+    "correct_answer": "Among Us"
+  }
+]

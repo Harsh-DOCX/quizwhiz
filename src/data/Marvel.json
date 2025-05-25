@@ -1,0 +1,952 @@
+[
+        {
+            "question": "Which Marvel movie, released in 2008, kicked off the MCU and is a favorite among Indian fans for its tech-heavy storyline?",
+            "options": [
+                "Iron Man",
+                "The Incredible Hulk",
+                "Thor",
+                "Captain America: The First Avenger"
+            ],
+            "answer": "Iron Man"
+        },
+        {
+            "question": "What is the name of Tony Stark’s company, often compared to Indian tech giants like Tata or Reliance?",
+            "options": [
+                "Stark Industries",
+                "Hammer Industries",
+                "Oscorp",
+                "Pym Technologies"
+            ],
+            "answer": "Stark Industries"
+        },
+        {
+            "question": "Which Marvel character, known for his hammer Mjolnir, is inspired by Norse mythology, similar to Indian epics like the Mahabharata?",
+            "options": [
+                "Thor",
+                "Loki",
+                "Odin",
+                "Heimdall"
+            ],
+            "answer": "Thor"
+        },
+        {
+            "question": "Which Indian actor made a cameo in 'Eternals' as Kingo’s manager, delighting Indian audiences?",
+            "options": [
+                "Harish Patel",
+                "Anupam Kher",
+                "Irrfan Khan",
+                "Om Puri"
+            ],
+            "answer": "Harish Patel"
+        },
+        {
+            "question": "What is the name of the glowing blue cube used by Loki, often likened to the mystical 'Chintamani' stone in Indian mythology?",
+            "options": [
+                "Tesseract",
+                "Scepter",
+                "Aether",
+                "Orb"
+            ],
+            "answer": "Tesseract"
+        },
+        {
+            "question": "Which Marvel hero, popular in India for his wit, is played by Robert Downey Jr.?",
+            "options": [
+                "Iron Man",
+                "Captain America",
+                "Star-Lord",
+                "Doctor Strange"
+            ],
+            "answer": "Iron Man"
+        },
+        {
+            "question": "In 'Avengers: Endgame', which Indian city is referenced when Tony Stark talks about global recovery efforts?",
+            "options": [
+                "Mumbai",
+                "Delhi",
+                "Chennai",
+                "Kolkata"
+            ],
+            "answer": "Chennai"
+        },
+        {
+            "question": "Which Marvel movie features a dance sequence reminiscent of Bollywood choreography in its opening credits?",
+            "options": [
+                "Guardians of the Galaxy",
+                "Ant-Man",
+                "Spider-Man: Homecoming",
+                "Thor: Ragnarok"
+            ],
+            "answer": "Guardians of the Galaxy"
+        },
+        {
+            "question": "What is the name of Black Panther’s sister, a tech genius akin to India’s young innovators?",
+            "options": [
+                "Shuri",
+                "Nakia",
+                "Okoye",
+                "Ramonda"
+            ],
+            "answer": "Shuri"
+        },
+        {
+            "question": "Which Marvel villain, known for his purple appearance, has a philosophy of balance similar to Indian concepts of dharma?",
+            "options": [
+                "Thanos",
+                "Ultron",
+                "Loki",
+                "Red Skull"
+            ],
+            "answer": "Thanos"
+        },
+        {
+            "question": "Which Marvel character’s cat, named after a 'Top Gun' character, became a fan favorite in India?",
+            "options": [
+                "Goose",
+                "Flerken",
+                "Chewie",
+                "Cosmo"
+            ],
+            "answer": "Goose"
+        },
+        {
+            "question": "In 'Spider-Man: Far From Home', which European city’s vibrant visuals remind Indian fans of Holi celebrations?",
+            "options": [
+                "Venice",
+                "Prague",
+                "London",
+                "Berlin"
+            ],
+            "answer": "Prague"
+        },
+        {
+            "question": "Who voices Groot, a character loved by Indian kids for his simple yet emotional dialogue?",
+            "options": [
+                "Vin Diesel",
+                "Chris Pratt",
+                "Bradley Cooper",
+                "Dave Bautista"
+            ],
+            "answer": "Vin Diesel"
+        },
+        {
+            "question": "Which Marvel movie’s climax battle in New York is often compared to chaotic Indian festival crowds?",
+            "options": [
+                "The Avengers",
+                "Avengers: Age of Ultron",
+                "Captain America: Civil War",
+                "Avengers: Infinity War"
+            ],
+            "answer": "The Avengers"
+        },
+        {
+            "question": "Which Marvel hero, known for his shield, embodies values of duty like Arjuna from the Mahabharata?",
+            "options": [
+                "Captain America",
+                "Iron Man",
+                "Thor",
+                "Hulk"
+            ],
+            "answer": "Captain America"
+        },
+        {
+            "question": "In 'Doctor Strange', which ancient artifact is guarded in a temple, similar to sacred Indian relics?",
+            "options": [
+                "Eye of Agamotto",
+                "Cloak of Levitation",
+                "Sling Ring",
+                "Book of Cagliostro"
+            ],
+            "answer": "Eye of Agamotto"
+        },
+        {
+            "question": "Which Marvel movie features a villain named Obadiah Stane, whose betrayal resonates with Indian family drama tropes?",
+            "options": [
+                "Iron Man",
+                "Iron Man 2",
+                "Iron Man 3",
+                "Avengers"
+            ],
+            "answer": "Iron Man"
+        },
+        {
+            "question": "What is the name of Thor’s axe, introduced in 'Avengers: Infinity War', akin to a warrior’s weapon in Indian epics?",
+            "options": [
+                "Stormbreaker",
+                "Mjolnir",
+                "Gungnir",
+                "Jarnbjorn"
+            ],
+            "answer": "Stormbreaker"
+        },
+        {
+            "question": "Which Marvel character, played by Chris Pratt, loves retro music, appealing to India’s love for nostalgic Bollywood songs?",
+            "options": [
+                "Star-Lord",
+                "Rocket",
+                "Drax",
+                "Groot"
+            ],
+            "answer": "Star-Lord"
+        },
+        {
+            "question": "In 'Black Panther', what is the name of the fictional African nation, celebrated by Indian fans for its cultural pride?",
+            "options": [
+                "Wakanda",
+                "Genosha",
+                "Latveria",
+                "Sokovia"
+            ],
+            "answer": "Wakanda"
+        },
+        {
+            "question": "Which Marvel movie’s colorful visuals in the Quantum Realm remind Indian audiences of vibrant Diwali lights?",
+            "options": [
+                "Ant-Man and the Wasp",
+                "Ant-Man",
+                "Doctor Strange",
+                "Thor: Ragnarok"
+            ],
+            "answer": "Ant-Man and the Wasp"
+        },
+        {
+            "question": "Which Marvel hero’s alter ego is Bruce Banner, whose inner conflict mirrors Indian philosophical struggles?",
+            "options": [
+                "Hulk",
+                "Iron Man",
+                "Thor",
+                "Hawkeye"
+            ],
+            "answer": "Hulk"
+        },
+        {
+            "question": "Which Marvel character, played by Scarlett Johansson, is a spy, similar to roles in Indian action films?",
+            "options": [
+                "Black Widow",
+                "Wanda Maximoff",
+                "Maria Hill",
+                "Peggy Carter"
+            ],
+            "answer": "Black Widow"
+        },
+        {
+            "question": "In 'Avengers: Infinity War', what does Thanos sacrifice to acquire the Soul Stone, a plot point emotional for Indian fans?",
+            "options": [
+                "Gamora",
+                "Nebula",
+                "Vision",
+                "Loki"
+            ],
+            "answer": "Gamora"
+        },
+        {
+            "question": "Which Marvel movie’s portal scene in 'Avengers: Endgame' is a grand spectacle like Indian festival processions?",
+            "options": [
+                "Avengers: Endgame",
+                "Avengers: Infinity War",
+                "Captain America: Civil War",
+                "The Avengers"
+            ],
+            "answer": "Avengers: Endgame"
+        },
+        {
+            "question": "Which Marvel character, played by Tom Holland, is a teenage hero relatable to Indian students?",
+            "options": [
+                "Spider-Man",
+                "Ant-Man",
+                "Star-Lord",
+                "Shuri"
+            ],
+            "answer": "Spider-Man"
+        },
+        {
+            "question": "In 'Captain Marvel', what is the name of the alien race that invades Earth, similar to invaders in Indian sci-fi films?",
+            "options": [
+                "Skrulls",
+                "Kree",
+                "Chitauri",
+                "Outriders"
+            ],
+            "answer": "Skrulls"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Ultron, aims to create a new world order, a theme seen in Indian dystopian stories?",
+            "options": [
+                "Avengers: Age of Ultron",
+                "Avengers",
+                "Iron Man 3",
+                "Captain America: Civil War"
+            ],
+            "answer": "Avengers: Age of Ultron"
+        },
+        {
+            "question": "What is the name of the dwarf who made Thanos’s gauntlet, a craftsman like India’s traditional artisans?",
+            "options": [
+                "Eitri",
+                "Pip",
+                "Korg",
+                "Miek"
+            ],
+            "answer": "Eitri"
+        },
+        {
+            "question": "Which Marvel hero’s suit is made of Vibranium, a material Indian fans compare to mythical metals in folklore?",
+            "options": [
+                "Black Panther",
+                "Iron Man",
+                "Captain America",
+                "Thor"
+            ],
+            "answer": "Black Panther"
+        },
+        {
+            "question": "In 'Thor: Ragnarok', which character’s fiery transformation is likened to Indian mythological deities?",
+            "options": [
+                "Hela",
+                "Surtur",
+                "Loki",
+                "Valkyrie"
+            ],
+            "answer": "Surtur"
+        },
+        {
+            "question": "Which Marvel movie features a fight scene in an airport, thrilling Indian fans with its action choreography?",
+            "options": [
+                "Captain America: Civil War",
+                "Avengers",
+                "Iron Man 3",
+                "Spider-Man: Homecoming"
+            ],
+            "answer": "Captain America: Civil War"
+        },
+        {
+            "question": "What is the name of the organization led by Red Skull, often compared to secret societies in Indian thrillers?",
+            "options": [
+                "Hydra",
+                "S.H.I.E.L.D.",
+                "A.I.M.",
+                "Ten Rings"
+            ],
+            "answer": "Hydra"
+        },
+        {
+            "question": "Which Marvel character, played by Chris Hemsworth, is a prince, similar to Indian royal characters in films?",
+            "options": [
+                "Thor",
+                "Loki",
+                "Star-Lord",
+                "T’Challa"
+            ],
+            "answer": "Thor"
+        },
+        {
+            "question": "In 'Guardians of the Galaxy Vol. 2', which character’s emotional arc resonates with Indian family values?",
+            "options": [
+                "Yondu",
+                "Rocket",
+                "Drax",
+                "Nebula"
+            ],
+            "answer": "Yondu"
+        },
+        {
+            "question": "Which Marvel movie’s time-travel plot in 'Avengers: Endgame' fascinates Indian sci-fi fans?",
+            "options": [
+                "Avengers: Endgame",
+                "Doctor Strange",
+                "Ant-Man",
+                "Thor: The Dark World"
+            ],
+            "answer": "Avengers: Endgame"
+        },
+        {
+            "question": "What is the name of the protocol Tony Stark enacts in 'Iron Man 3', similar to a dramatic Indian movie climax?",
+            "options": [
+                "Clean Slate Protocol",
+                "House Party Protocol",
+                "Endgame Protocol",
+                "Ultron Protocol"
+            ],
+            "answer": "Clean Slate Protocol"
+        },
+        {
+            "question": "Which Marvel character, a sorcerer, uses a sling ring, appealing to Indian fans of mystical stories?",
+            "options": [
+                "Doctor Strange",
+                "Wong",
+                "Ancient One",
+                "Mordo"
+            ],
+            "answer": "Doctor Strange"
+        },
+        {
+            "question": "In 'Captain America: The Winter Soldier', who is revealed as Bucky Barnes, a twist loved by Indian drama fans?",
+            "options": [
+                "Winter Soldier",
+                "Crossbones",
+                "Falcon",
+                "Zemo"
+            ],
+            "answer": "Winter Soldier"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Killmonger, fights for his heritage, a theme relatable to Indian cultural pride?",
+            "options": [
+                "Black Panther",
+                "Avengers: Infinity War",
+                "Captain America: Civil War",
+                "Thor: Ragnarok"
+            ],
+            "answer": "Black Panther"
+        },
+        {
+            "question": "What is the name of Peter Quill’s ship, named after an ’80s actress, appealing to Indian retro fans?",
+            "options": [
+                "Milano",
+                "Benatar",
+                "Eclector",
+                "Ravager"
+            ],
+            "answer": "Milano"
+        },
+        {
+            "question": "Which Marvel movie’s multiverse concept in 'Doctor Strange in the Multiverse of Madness' excites Indian sci-fi fans?",
+            "options": [
+                "Doctor Strange in the Multiverse of Madness",
+                "Spider-Man: No Way Home",
+                "Avengers: Endgame",
+                "Loki"
+            ],
+            "answer": "Doctor Strange in the Multiverse of Madness"
+        },
+        {
+            "question": "Which Marvel character, played by Benedict Cumberbatch, is a former surgeon, akin to Indian professionals?",
+            "options": [
+                "Doctor Strange",
+                "Tony Stark",
+                "Bruce Banner",
+                "Stephen Strange"
+            ],
+            "answer": "Doctor Strange"
+        },
+        {
+            "question": "In 'Avengers', which alien race invades New York, a scene thrilling Indian action movie fans?",
+            "options": [
+                "Chitauri",
+                "Skrulls",
+                "Kree",
+                "Outriders"
+            ],
+            "answer": "Chitauri"
+        },
+        {
+            "question": "Which Marvel hero’s red and gold suit is iconic in India for its flashy design?",
+            "options": [
+                "Iron Man",
+                "War Machine",
+                "Spider-Man",
+                "Captain America"
+            ],
+            "answer": "Iron Man"
+        },
+        {
+            "question": "In 'Thor: The Dark World', what is the name of the infinity stone guarded by the Asgardians?",
+            "options": [
+                "Aether",
+                "Tesseract",
+                "Orb",
+                "Eye of Agamotto"
+            ],
+            "answer": "Aether"
+        },
+        {
+            "question": "Which Marvel movie features a villain named Ronan, whose zealotry echoes antagonists in Indian epics?",
+            "options": [
+                "Guardians of the Galaxy",
+                "Captain Marvel",
+                "Avengers",
+                "Thor: Ragnarok"
+            ],
+            "answer": "Guardians of the Galaxy"
+        },
+        {
+            "question": "What is the name of Wanda Maximoff’s kids, a family dynamic relatable to Indian audiences?",
+            "options": [
+                "Billy and Tommy",
+                "Pietro and Vision",
+                "Wanda and Vision",
+                "Tommy and Speed"
+            ],
+            "answer": "Billy and Tommy"
+        },
+        {
+            "question": "Which Marvel movie’s vibrant visuals in Asgard resemble Indian palace aesthetics?",
+            "options": [
+                "Thor",
+                "Thor: The Dark World",
+                "Thor: Ragnarok",
+                "Avengers"
+            ],
+            "answer": "Thor"
+        },
+        {
+            "question": "Which Marvel character, played by Zoe Saldana, has a sisterly bond that resonates with Indian family values?",
+            "options": [
+                "Gamora",
+                "Nebula",
+                "Mantis",
+                "Valkyrie"
+            ],
+            "answer": "Gamora"
+        },
+        {
+            "question": "In 'Ant-Man', what is the name of Scott Lang’s daughter, a character Indian fans find adorable?",
+            "options": [
+                "Cassie",
+                "Hope",
+                "Maggie",
+                "Janet"
+            ],
+            "answer": "Cassie"
+        },
+        {
+            "question": "Which Marvel movie’s climax in Wakanda is a grand battle like Indian mythological wars?",
+            "options": [
+                "Avengers: Infinity War",
+                "Black Panther",
+                "Captain America: Civil War",
+                "Avengers: Endgame"
+            ],
+            "answer": "Avengers: Infinity War"
+        },
+        {
+            "question": "Which Marvel character, a marksman, uses a bow and arrow, similar to Arjuna in Indian epics?",
+            "options": [
+                "Hawkeye",
+                "Black Widow",
+                "Falcon",
+                "War Machine"
+            ],
+            "answer": "Hawkeye"
+        },
+        {
+            "question": "In 'Iron Man 2', which billionaire makes a cameo, exciting Indian tech enthusiasts?",
+            "options": [
+                "Elon Musk",
+                "Bill Gates",
+                "Jeff Bezos",
+                "Mark Zuckerberg"
+            ],
+            "answer": "Elon Musk"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Hela, has a goddess-like aura akin to Indian deities like Kali?",
+            "options": [
+                "Thor: Ragnarok",
+                "Thor",
+                "Thor: The Dark World",
+                "Avengers"
+            ],
+            "answer": "Thor: Ragnarok"
+        },
+        {
+            "question": "What is the name of the agency Black Widow works for, similar to India’s RAW?",
+            "options": [
+                "S.H.I.E.L.D.",
+                "Hydra",
+                "A.I.M.",
+                "Ten Rings"
+            ],
+            "answer": "S.H.I.E.L.D."
+        },
+        {
+            "question": "Which Marvel movie’s time heist plot in 'Avengers: Endgame' fascinates Indian sci-fi fans?",
+            "options": [
+                "Avengers: Endgame",
+                "Doctor Strange",
+                "Ant-Man",
+                "Spider-Man: No Way Home"
+            ],
+            "answer": "Avengers: Endgame"
+        },
+        {
+            "question": "Which Marvel character, played by Paul Rudd, shrinks in size, a concept Indian kids find fun?",
+            "options": [
+                "Ant-Man",
+                "Wasp",
+                "Hank Pym",
+                "Scott Lang"
+            ],
+            "answer": "Ant-Man"
+        },
+        {
+            "question": "In 'Captain America: The First Avenger', what is the first name of Dr. Erskine, who created the super-soldier serum?",
+            "options": [
+                "Abraham",
+                "Joseph",
+                "Stanley",
+                "Howard"
+            ],
+            "answer": "Abraham"
+        },
+        {
+            "question": "Which Marvel movie’s multiverse villains in 'Spider-Man: No Way Home' thrill Indian fans of crossover films?",
+            "options": [
+                "Spider-Man: No Way Home",
+                "Doctor Strange in the Multiverse of Madness",
+                "Loki",
+                "Avengers: Endgame"
+            ],
+            "answer": "Spider-Man: No Way Home"
+        },
+        {
+            "question": "Which Marvel character’s Cloak of Levitation is a magical item like artifacts in Indian mythology?",
+            "options": [
+                "Doctor Strange",
+                "Wong",
+                "Ancient One",
+                "Mordo"
+            ],
+            "answer": "Doctor Strange"
+        },
+        {
+            "question": "In 'Avengers: Infinity War', what is Drax eating when watching Peter and Gamora kiss?",
+            "options": [
+                "Zargnuts",
+                "Popcorn",
+                "Chips",
+                "Nuts"
+            ],
+            "answer": "Zargnuts"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Ego, has a cosmic presence like Indian gods in mythology?",
+            "options": [
+                "Guardians of the Galaxy Vol. 2",
+                "Guardians of the Galaxy",
+                "Thor: Ragnarok",
+                "Captain Marvel"
+            ],
+            "answer": "Guardians of the Galaxy Vol. 2"
+        },
+        {
+            "question": "What is the name of Tony Stark’s father, a character Indian fans relate to for his legacy?",
+            "options": [
+                "Howard Stark",
+                "Obadiah Stane",
+                "Justin Hammer",
+                "Edwin Jarvis"
+            ],
+            "answer": "Howard Stark"
+        },
+        {
+            "question": "Which Marvel movie’s Kamar-Taj setting resembles Indian spiritual ashrams?",
+            "options": [
+                "Doctor Strange",
+                "Iron Man 3",
+                "Thor: Ragnarok",
+                "Black Panther"
+            ],
+            "answer": "Doctor Strange"
+        },
+        {
+            "question": "Which Marvel character, played by Mark Ruffalo, struggles with anger, a theme in Indian philosophy?",
+            "options": [
+                "Hulk",
+                "Thor",
+                "Iron Man",
+                "Hawkeye"
+            ],
+            "answer": "Hulk"
+        },
+        {
+            "question": "In 'Spider-Man: Homecoming', what is the name of Peter Parker’s best friend, relatable to Indian teens?",
+            "options": [
+                "Ned",
+                "MJ",
+                "Flash",
+                "Harry"
+            ],
+            "answer": "Ned"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Vulture, is a working-class antagonist, resonating with Indian social themes?",
+            "options": [
+                "Spider-Man: Homecoming",
+                "Ant-Man",
+                "Iron Man 3",
+                "Captain America: Civil War"
+            ],
+            "answer": "Spider-Man: Homecoming"
+        },
+        {
+            "question": "What is the name of the little boy Tony befriends in 'Iron Man 3', a bond Indian fans find heartwarming?",
+            "options": [
+                "Harley",
+                "Peter",
+                "Billy",
+                "Tommy"
+            ],
+            "answer": "Harley"
+        },
+        {
+            "question": "Which Marvel movie’s cosmic battles in 'Thor: Ragnarok' resemble Indian epic wars like Kurukshetra?",
+            "options": [
+                "Thor: Ragnarok",
+                "Thor",
+                "Avengers",
+                "Guardians of the Galaxy"
+            ],
+            "answer": "Thor: Ragnarok"
+        },
+        {
+            "question": "Which Marvel character, played by Chris Evans, is a symbol of sacrifice like Indian freedom fighters?",
+            "options": [
+                "Captain America",
+                "Iron Man",
+                "Thor",
+                "Hawkeye"
+            ],
+            "answer": "Captain America"
+        },
+        {
+            "question": "In 'Avengers: Age of Ultron', which city is lifted into the sky, a spectacle for Indian sci-fi fans?",
+            "options": [
+                "Sokovia",
+                "Wakanda",
+                "New York",
+                "Asgard"
+            ],
+            "answer": "Sokovia"
+        },
+        {
+            "question": "Which Marvel movie features a character named Wong, a name familiar to Indian audiences?",
+            "options": [
+                "Doctor Strange",
+                "Avengers: Infinity War",
+                "Shang-Chi",
+                "Eternals"
+            ],
+            "answer": "Doctor Strange"
+        },
+        {
+            "question": "What is Deadpool’s real name, a character popular in India for his humor?",
+            "options": [
+                "Wade Wilson",
+                "Logan Howlett",
+                "Peter Parker",
+                "Tony Stark"
+            ],
+            "answer": "Wade Wilson"
+        },
+        {
+            "question": "Which Marvel movie’s Vibranium-based technology in 'Black Panther' excites Indian tech enthusiasts?",
+            "options": [
+                "Black Panther",
+                "Avengers: Age of Ultron",
+                "Captain America: Civil War",
+                "Iron Man"
+            ],
+            "answer": "Black Panther"
+        },
+        {
+            "question": "In 'Captain Marvel', what is the call sign used by Maria Rambeau, a nod to Indian fans of aviation?",
+            "options": [
+                "Photon",
+                "Spectre",
+                "Blaze",
+                "Starforce"
+            ],
+            "answer": "Photon"
+        },
+        {
+            "question": "Which Marvel character, a raccoon, is loved in India for his sarcastic humor?",
+            "options": [
+                "Rocket",
+                "Drax",
+                "Groot",
+                "Star-Lord"
+            ],
+            "answer": "Rocket"
+        },
+        {
+            "question": "In 'Avengers: Endgame', what does Morgan Stark want, a moment Indian fans find cute?",
+            "options": [
+                "Cheeseburgers",
+                "Pizza",
+                "Ice Cream",
+                "Fries"
+            ],
+            "answer": "Cheeseburgers"
+        },
+        {
+            "question": "Which Marvel movie’s multiverse in 'Spider-Man: No Way Home' includes villains familiar to Indian fans?",
+            "options": [
+                "Spider-Man: No Way Home",
+                "Doctor Strange in the Multiverse of Madness",
+                "Loki",
+                "What If...?"
+            ],
+            "answer": "Spider-Man: No Way Home"
+        },
+        {
+            "question": "Which Marvel character, played by Don Cheadle, is a military hero like Indian armed forces icons?",
+            "options": [
+                "War Machine",
+                "Falcon",
+                "Winter Soldier",
+                "Hawkeye"
+            ],
+            "answer": "War Machine"
+        },
+        {
+            "question": "In 'Thor', what is the name of the bridge connecting Asgard, similar to Indian rainbow myths?",
+            "options": [
+                "Bifrost",
+                "Heimdall",
+                "Asgard",
+                "Yggdrasil"
+            ],
+            "answer": "Bifrost"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Zemo, manipulates heroes, a plot twist Indian thriller fans love?",
+            "options": [
+                "Captain America: Civil War",
+                "Avengers",
+                "Iron Man 3",
+                "Black Panther"
+            ],
+            "answer": "Captain America: Civil War"
+        },
+        {
+            "question": "Which Marvel character, played by Elizabeth Olsen, has powers like Indian mystical figures?",
+            "options": [
+                "Scarlet Witch",
+                "Black Widow",
+                "Valkyrie",
+                "Mantis"
+            ],
+            "answer": "Scarlet Witch"
+        },
+        {
+            "question": "In 'Guardians of the Galaxy', what is the name of the orb containing an infinity stone?",
+            "options": [
+                "Power Stone",
+                "Tesseract",
+                "Aether",
+                "Soul Stone"
+            ],
+            "answer": "Power Stone"
+        },
+        {
+            "question": "Which Marvel movie’s New York setting in 'The Avengers' reminds Indian fans of Mumbai’s hustle?",
+            "options": [
+                "The Avengers",
+                "Spider-Man: Homecoming",
+                "Iron Man",
+                "Captain America: Civil War"
+            ],
+            "answer": "The Avengers"
+        },
+        {
+            "question": "Which Marvel character, a trickster, is loved in India for his cunning, like Krishna in mythology?",
+            "options": [
+                "Loki",
+                "Thor",
+                "Star-Lord",
+                "Rocket"
+            ],
+            "answer": "Loki"
+        },
+        {
+            "question": "In 'Iron Man 3', what is the name of the terrorist group, similar to villains in Indian action films?",
+            "options": [
+                "Ten Rings",
+                "Hydra",
+                "A.I.M.",
+                "S.H.I.E.L.D."
+            ],
+            "answer": "Ten Rings"
+        },
+        {
+            "question": "Which Marvel movie’s cosmic scope in 'Eternals' appeals to Indian fans of grand epics?",
+            "options": [
+                "Eternals",
+                "Guardians of the Galaxy",
+                "Thor: Ragnarok",
+                "Captain Marvel"
+            ],
+            "answer": "Eternals"
+        },
+        {
+            "question": "What is the name of the AI in Tony Stark’s suit, voiced by Paul Bettany, popular among Indian tech fans?",
+            "options": [
+                "JARVIS",
+                "FRIDAY",
+                "EDITH",
+                "KAREN"
+            ],
+            "answer": "JARVIS"
+        },
+        {
+            "question": "Which Marvel character, played by Chadwick Boseman, inspires Indian fans with his leadership?",
+            "options": [
+                "Black Panther",
+                "Falcon",
+                "War Machine",
+                "Captain America"
+            ],
+            "answer": "Black Panther"
+        },
+        {
+            "question": "In 'Avengers: Infinity War', which planet does Thanos visit, a barren land like Indian desert tales?",
+            "options": [
+                "Titan",
+                "Knowhere",
+                "Vormir",
+                "Xandar"
+            ],
+            "answer": "Titan"
+        },
+        {
+            "question": "Which Marvel movie’s villain, Mysterio, uses illusions, a concept familiar in Indian mythology?",
+            "options": [
+                "Spider-Man: Far From Home",
+                "Spider-Man: Homecoming",
+                "Doctor Strange",
+                "Avengers"
+            ],
+            "answer": "Spider-Man: Far From Home"
+        },
+        {
+            "question": "What is the name of the first Avenger to quit the team in the comics, a fact Indian comic fans know?",
+            "options": [
+                "Hulk",
+                "Iron Man",
+                "Thor",
+                "Captain America"
+            ],
+            "answer": "Hulk"
+        },
+        {
+            "question": "Which Marvel movie’s team-up in 'The Avengers' is like Indian ensemble films with multiple stars?",
+            "options": [
+                "The Avengers",
+                "Captain America: Civil War",
+                "Avengers: Endgame",
+                "Guardians of the Galaxy"
+            ],
+            "answer": "The Avengers"
+        },
+        {
+            "question": "Which Marvel character, a telepath, has powers akin to Indian yogis in folklore?",
+            "options": [
+                "Mantis",
+                "Gamora",
+                "Nebula",
+                "Valkyrie"
+            ],
+            "answer": "Mantis"
+        }
+    ]
